@@ -69,11 +69,11 @@ def predict_churn(model, label_encoder, one_hot_encoder, scaler, input_data):
     
     return (proba, result)
 
-result = st.write(predict_churn(model=model,
+result = st.title(f'Result: {predict_churn(model=model,
                                 label_encoder=label_encoder_gender,
                                 one_hot_encoder=geo_columns,
                                 scaler=scaler,
-                                input_data=input_data))
+                                input_data=input_data)[1]}')
 
 
 
