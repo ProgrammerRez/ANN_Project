@@ -4,5 +4,8 @@ pandas
 streamlit
 numpy
 tensorboard
+tensorflow 
 ipykernel
 joblib
+pydantic
+google-generativeai
