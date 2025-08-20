@@ -9,3 +9,5 @@ ipykernel
 joblib
 pydantic
 google-generativeai
+matplotlib
+seaborn
