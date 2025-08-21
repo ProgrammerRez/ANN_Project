@@ -1,0 +1,203 @@
+[EXTRACTION INPUT] a german male of age 28 with good credit score and balance using 3 products
+[EXTRACTION INPUT] a german male of age 28 with good credit score and balance using 3 products
+[EXTRACTION INPUT] a german male of age 28 with good credit score and balance using 3 products
+[EXTRACTION INPUT] a german male of age 28 with good credit score and balance using 3 products
+[EXTRACTION INPUT] a german male of age 28 with good credit score and balance using 3 products
+[EXTRACTION INPUT] a german male of age 28 with good credit score and balance using 3 products
+[EXTRACTION INPUT] a german male of age 28 with good credit score and balance using 3 products
+[EXTRACTION OUTPUT] {'Gender': 'Male', 'Age': 28, 'CreditScore': 750, 'Balance': 100000, 'Products': 3}
+[EXTRACTION OUTPUT] {'Gender': 'Male', 'Age': 28, 'CreditScore': 750, 'Balance': 100000, 'Products': 3}
+[EXTRACTION OUTPUT] {'Gender': 'Male', 'Age': 28, 'CreditScore': 750, 'Balance': 100000, 'Products': 3}
+[EXTRACTION OUTPUT] {'Gender': 'Male', 'Age': 28, 'CreditScore': 750, 'Balance': 100000, 'Products': 3}
+[EXTRACTION OUTPUT] {'Gender': 'Male', 'Age': 28, 'CreditScore': 750, 'Balance': 100000, 'Products': 3}
+[EXTRACTION OUTPUT] {'Gender': 'Male', 'Age': 28, 'CreditScore': 750, 'Balance': 100000, 'Products': 3}
+[EXTRACTION OUTPUT] {'Gender': 'Male', 'Age': 28, 'CreditScore': 750, 'Balance': 100000, 'Products': 3}
+[CONVERSATION INPUT] 
+        **Prediction Result:** 136333.390625
+        **Final Customer Profile Used:**
+        {
+  "CreditScore": 750,
+  "Age": 28,
+  "Tenure": 5,
+  "Balance": 100000,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "Geography": "France",
+  "Gender": "Male",
+  "Exited": 0,
+  "Products": 3
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** 136333.390625
+        **Final Customer Profile Used:**
+        {
+  "CreditScore": 750,
+  "Age": 28,
+  "Tenure": 5,
+  "Balance": 100000,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "Geography": "France",
+  "Gender": "Male",
+  "Exited": 0,
+  "Products": 3
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** 136333.390625
+        **Final Customer Profile Used:**
+        {
+  "CreditScore": 750,
+  "Age": 28,
+  "Tenure": 5,
+  "Balance": 100000,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "Geography": "France",
+  "Gender": "Male",
+  "Exited": 0,
+  "Products": 3
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** 136333.390625
+        **Final Customer Profile Used:**
+        {
+  "CreditScore": 750,
+  "Age": 28,
+  "Tenure": 5,
+  "Balance": 100000,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "Geography": "France",
+  "Gender": "Male",
+  "Exited": 0,
+  "Products": 3
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** 136333.390625
+        **Final Customer Profile Used:**
+        {
+  "CreditScore": 750,
+  "Age": 28,
+  "Tenure": 5,
+  "Balance": 100000,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "Geography": "France",
+  "Gender": "Male",
+  "Exited": 0,
+  "Products": 3
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** 136333.390625
+        **Final Customer Profile Used:**
+        {
+  "CreditScore": 750,
+  "Age": 28,
+  "Tenure": 5,
+  "Balance": 100000,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "Geography": "France",
+  "Gender": "Male",
+  "Exited": 0,
+  "Products": 3
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** 136333.390625
+        **Final Customer Profile Used:**
+        {
+  "CreditScore": 750,
+  "Age": 28,
+  "Tenure": 5,
+  "Balance": 100000,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "Geography": "France",
+  "Gender": "Male",
+  "Exited": 0,
+  "Products": 3
+}
+        
+[CONVERSATION OUTPUT] ## WHAT IS THE SALARY?
+
+The predicted salary for the customer profile is **$136,333.39**.
+
+Here's a summary of the assessment points:
+
+*   **Financial Health:** An excellent Credit Score of 750 and a substantial Balance of $100,000 indicate strong financial responsibility and significant assets.
+*   **Professional Stage:** At 28 years old with 5 years of tenure, the profile suggests a young professional in the early-to-mid career phase, showing stability.
+*   **Customer Engagement:** As an active member with 1-3 banking products, the customer demonstrates consistent and engaged financial behavior.
+*   **Geographic Location:** The profile is based in France, which influences the regional salary benchmarks and expectations.
+[CONVERSATION OUTPUT] ## WHAT IS THE SALARY?
+
+The predicted salary for the customer profile is **$136,333.39**.
+
+Here's a summary of the assessment points:
+
+*   **Financial Health:** An excellent Credit Score of 750 and a substantial Balance of $100,000 indicate strong financial responsibility and significant assets.
+*   **Professional Stage:** At 28 years old with 5 years of tenure, the profile suggests a young professional in the early-to-mid career phase, showing stability.
+*   **Customer Engagement:** As an active member with 1-3 banking products, the customer demonstrates consistent and engaged financial behavior.
+*   **Geographic Location:** The profile is based in France, which influences the regional salary benchmarks and expectations.
+[CONVERSATION OUTPUT] ## WHAT IS THE SALARY?
+
+The predicted salary for the customer profile is **$136,333.39**.
+
+Here's a summary of the assessment points:
+
+*   **Financial Health:** An excellent Credit Score of 750 and a substantial Balance of $100,000 indicate strong financial responsibility and significant assets.
+*   **Professional Stage:** At 28 years old with 5 years of tenure, the profile suggests a young professional in the early-to-mid career phase, showing stability.
+*   **Customer Engagement:** As an active member with 1-3 banking products, the customer demonstrates consistent and engaged financial behavior.
+*   **Geographic Location:** The profile is based in France, which influences the regional salary benchmarks and expectations.
+[CONVERSATION OUTPUT] ## WHAT IS THE SALARY?
+
+The predicted salary for the customer profile is **$136,333.39**.
+
+Here's a summary of the assessment points:
+
+*   **Financial Health:** An excellent Credit Score of 750 and a substantial Balance of $100,000 indicate strong financial responsibility and significant assets.
+*   **Professional Stage:** At 28 years old with 5 years of tenure, the profile suggests a young professional in the early-to-mid career phase, showing stability.
+*   **Customer Engagement:** As an active member with 1-3 banking products, the customer demonstrates consistent and engaged financial behavior.
+*   **Geographic Location:** The profile is based in France, which influences the regional salary benchmarks and expectations.
+[CONVERSATION OUTPUT] ## WHAT IS THE SALARY?
+
+The predicted salary for the customer profile is **$136,333.39**.
+
+Here's a summary of the assessment points:
+
+*   **Financial Health:** An excellent Credit Score of 750 and a substantial Balance of $100,000 indicate strong financial responsibility and significant assets.
+*   **Professional Stage:** At 28 years old with 5 years of tenure, the profile suggests a young professional in the early-to-mid career phase, showing stability.
+*   **Customer Engagement:** As an active member with 1-3 banking products, the customer demonstrates consistent and engaged financial behavior.
+*   **Geographic Location:** The profile is based in France, which influences the regional salary benchmarks and expectations.
+[CONVERSATION OUTPUT] ## WHAT IS THE SALARY?
+
+The predicted salary for the customer profile is **$136,333.39**.
+
+Here's a summary of the assessment points:
+
+*   **Financial Health:** An excellent Credit Score of 750 and a substantial Balance of $100,000 indicate strong financial responsibility and significant assets.
+*   **Professional Stage:** At 28 years old with 5 years of tenure, the profile suggests a young professional in the early-to-mid career phase, showing stability.
+*   **Customer Engagement:** As an active member with 1-3 banking products, the customer demonstrates consistent and engaged financial behavior.
+*   **Geographic Location:** The profile is based in France, which influences the regional salary benchmarks and expectations.
+[CONVERSATION OUTPUT] ## WHAT IS THE SALARY?
+
+The predicted salary for the customer profile is **$136,333.39**.
+
+Here's a summary of the assessment points:
+
+*   **Financial Health:** An excellent Credit Score of 750 and a substantial Balance of $100,000 indicate strong financial responsibility and significant assets.
+*   **Professional Stage:** At 28 years old with 5 years of tenure, the profile suggests a young professional in the early-to-mid career phase, showing stability.
+*   **Customer Engagement:** As an active member with 1-3 banking products, the customer demonstrates consistent and engaged financial behavior.
+*   **Geographic Location:** The profile is based in France, which influences the regional salary benchmarks and expectations.
