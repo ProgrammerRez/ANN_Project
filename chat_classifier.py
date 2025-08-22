@@ -56,35 +56,27 @@ DEFAULT_FALLBACKS = {
 
 # --- 3. PREDICTION FUNCTION ---
 def predict_churn(model, label_encoder, one_hot_encoder, scaler, input_data):
-    """Preprocesses user input and returns the churn prediction probability and result message."""
+    """Preprocesses user input and returns prediction probability and message."""
     try:
-        # Ensure all values are single scalars, not lists
-        for key in input_data:
-            if isinstance(input_data[key], list) and len(input_data[key]) > 0:
-                input_data[key] = input_data[key][0]
+        # Ensure numeric fields
+        numeric_cols = ['CreditScore', 'Age', 'Tenure', 'Balance',
+                        'NumOfProducts', 'HasCrCard', 'IsActiveMember', 'EstimatedSalary']
+        for key in numeric_cols:
+            input_data[key] = pd.to_numeric(input_data.get(key, DEFAULT_FALLBACKS[key]), errors='coerce')
 
         input_df = pd.DataFrame([input_data])
-
-        # Ensure numeric fields are numeric
-        numeric_cols = ['CreditScore', 'Age', 'Tenure', 'Balance', 
-                        'NumOfProducts', 'HasCrCard', 'IsActiveMember', 'EstimatedSalary']
-        for col in numeric_cols:
-            input_df[col] = pd.to_numeric(input_df[col], errors='coerce')
 
         # Encode categorical features
         input_df['Gender'] = label_encoder.transform(input_df['Gender'])
         geo_one_hot = one_hot_encoder.transform(input_df[['Geography']])
         geo_df = pd.DataFrame(
-            geo_one_hot, 
+            geo_one_hot,
             columns=one_hot_encoder.get_feature_names_out(['Geography'])
         )
 
         # Merge features
-        final_df = input_df.drop(['Geography'], axis=1)
-        final_df_unordered = pd.concat([final_df, geo_df], axis=1)
-
-        # Match scaler’s expected feature order
-        final_df = final_df_unordered[scaler.feature_names_in_]
+        final_df = pd.concat([input_df.drop(['Geography'], axis=1), geo_df], axis=1)
+        final_df = final_df[scaler.feature_names_in_]
 
         # Scale
         scaled_df = scaler.transform(final_df)
@@ -97,10 +89,11 @@ def predict_churn(model, label_encoder, one_hot_encoder, scaler, input_data):
             result = 'The customer is likely to **STAY** with the bank.'
         else:
             result = 'The customer is at high risk of **CHURNING** (leaving the bank).'
-        return (proba, result)
+
+        return proba, result
 
     except Exception as e:
-        return (None, f"An error occurred during prediction: {e}")
+        return None, f"An error occurred during prediction: {e}"
 
 
 # --- 4. LLM AND CHATBOT LOGIC ---
@@ -116,14 +109,25 @@ def run_chatbot(api_key, user_message):
 
     extraction_prompt = ChatPromptTemplate.from_messages([
         ("system", """
-        You are an expert data extraction assistant. Extract customer details into JSON. Capitalize first character of each key. Good, poor, mid and mediocre are estimates for high magnitude, not values—translate them to numeric. 30's means any thirty; early 30's means <35; late 30's means >35. Give exact numbers for everything numerical.
+        You are an expert banking data extraction assistant. 
+        Extract customer details from text and return a JSON object with keys:
+        CreditScore, Age, Tenure, Balance, NumOfProducts, HasCrCard, IsActiveMember, EstimatedSalary, Geography, Gender.
+        Translate vague descriptors (e.g., 'poor', 'good', 'early 30s') into numeric values.
+        Return only JSON, no explanations.
         """),
         ("human", "{input}")
     ])
     extractor_chain = extraction_prompt | llm
 
     conversational_prompt = ChatPromptTemplate.from_messages([
-        ("system", "You are an expert banking AI assistant and analyst. Keep it simple and give a **bold heading** stating the **churn risk**. Then provide a concise summary for each assessment point. Be ready for follow-up questions."),
+        ("system", """
+        You are an expert banking AI assistant and analyst.
+        Provide a concise summary of the prediction:
+        - Bold heading: **Churn Prediction: Likely to Stay / Likely to Churn**.
+        - Summarize each input feature.
+        - List main factors influencing the prediction.
+        Keep it simple, professional, and actionable.
+        """),
         MessagesPlaceholder(variable_name="history"),
         ("human", "{input}"),
     ])
@@ -160,8 +164,10 @@ def run_chatbot(api_key, user_message):
         except json.JSONDecodeError:
             return "Invalid response after cleaning."
 
-        data_logger.info(f"[PROFILE UPDATE INPUT] {user_message}")
-        timing_logger.info(f"Profile update latency: {(t1_end - t1_start).total_seconds()}s")
+        # Logging extracted data + timing
+        data_logger.info(f"[EXTRACTION INPUT] {user_message}")
+        data_logger.info(f"[EXTRACTION OUTPUT] {extracted_data}")
+        timing_logger.info(f"Extraction API latency: {(t1_end - t1_start).total_seconds()}s")
 
         # Step 2: Merge with fallbacks
         final_data = DEFAULT_FALLBACKS.copy()
@@ -178,14 +184,9 @@ def run_chatbot(api_key, user_message):
             input_data=final_data
         )
 
-        if proba is None:
-            return result_text
-
-        churn_risk_prob = 1 - proba if "STAY" in result_text else proba
         analysis_summary_input = f"""
         **Prediction Result:** {result_text}
-        **Churn Risk Score:** {churn_risk_prob:.2f}
-        **Current Customer Profile:**
+        **Final Customer Profile Used:**
         {json.dumps(final_data, indent=2)}
         """
 
@@ -210,8 +211,8 @@ def run_chatbot(api_key, user_message):
 
 # --- STREAMLIT UI ---
 st.set_page_config(page_title='Churn Prediction Chatbot',
-                initial_sidebar_state='expanded',
-                layout='wide')
+                   initial_sidebar_state='expanded',
+                   layout='wide')
 
 st.title('💬 Churn Prediction Chatbot')
 
@@ -231,13 +232,11 @@ for msg in st.session_state.messages:
 
 # Chat input
 if user_input := st.chat_input("Describe a customer... (e.g. A female in her 30's with a poor credit score and balance)"):
-    # Save user message
     st.session_state.messages.append({"role": "user", "content": user_input})
     with st.chat_message("user"):
         st.markdown(user_input)
 
     if api_key:
-        # Run chatbot
         with st.chat_message("assistant"):
             with st.spinner("Thinking..."):
                 response = run_chatbot(api_key, user_input)

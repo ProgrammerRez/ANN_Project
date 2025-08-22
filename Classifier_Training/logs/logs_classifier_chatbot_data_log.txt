@@ -201,3 +201,2630 @@ Here's a summary of the assessment points:
 *   **Professional Stage:** At 28 years old with 5 years of tenure, the profile suggests a young professional in the early-to-mid career phase, showing stability.
 *   **Customer Engagement:** As an active member with 1-3 banking products, the customer demonstrates consistent and engaged financial behavior.
 *   **Geographic Location:** The profile is based in France, which influences the regional salary benchmarks and expectations.
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.18
+        **Current Customer Profile:**
+        {
+  "CreditScore": 500,
+  "Age": 35,
+  "Tenure": 5,
+  "Balance": 10000,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.18
+        **Current Customer Profile:**
+        {
+  "CreditScore": 500,
+  "Age": 35,
+  "Tenure": 5,
+  "Balance": 10000,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.18
+        **Current Customer Profile:**
+        {
+  "CreditScore": 500,
+  "Age": 35,
+  "Tenure": 5,
+  "Balance": 10000,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.18
+        **Current Customer Profile:**
+        {
+  "CreditScore": 500,
+  "Age": 35,
+  "Tenure": 5,
+  "Balance": 10000,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.18
+        **Current Customer Profile:**
+        {
+  "CreditScore": 500,
+  "Age": 35,
+  "Tenure": 5,
+  "Balance": 10000,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.18
+        **Current Customer Profile:**
+        {
+  "CreditScore": 500,
+  "Age": 35,
+  "Tenure": 5,
+  "Balance": 10000,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.18
+        **Current Customer Profile:**
+        {
+  "CreditScore": 500,
+  "Age": 35,
+  "Tenure": 5,
+  "Balance": 10000,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.18
+        **Current Customer Profile:**
+        {
+  "CreditScore": 500,
+  "Age": 35,
+  "Tenure": 5,
+  "Balance": 10000,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.18
+        **Current Customer Profile:**
+        {
+  "CreditScore": 500,
+  "Age": 35,
+  "Tenure": 5,
+  "Balance": 10000,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.18
+        **Current Customer Profile:**
+        {
+  "CreditScore": 500,
+  "Age": 35,
+  "Tenure": 5,
+  "Balance": 10000,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.18
+        **Current Customer Profile:**
+        {
+  "CreditScore": 500,
+  "Age": 35,
+  "Tenure": 5,
+  "Balance": 10000,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.18
+        **Current Customer Profile:**
+        {
+  "CreditScore": 500,
+  "Age": 35,
+  "Tenure": 5,
+  "Balance": 10000,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.18
+        **Current Customer Profile:**
+        {
+  "CreditScore": 500,
+  "Age": 35,
+  "Tenure": 5,
+  "Balance": 10000,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.18
+        **Current Customer Profile:**
+        {
+  "CreditScore": 500,
+  "Age": 35,
+  "Tenure": 5,
+  "Balance": 10000,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.18
+        **Current Customer Profile:**
+        {
+  "CreditScore": 500,
+  "Age": 35,
+  "Tenure": 5,
+  "Balance": 10000,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female"
+}
+        
+[CONVERSATION OUTPUT] **WHAT IS THE SALARY?**
+
+The estimated salary for this customer is $100,000.
+[CONVERSATION OUTPUT] **WHAT IS THE SALARY?**
+
+The estimated salary for this customer is $100,000.
+[CONVERSATION OUTPUT] **WHAT IS THE SALARY?**
+
+The estimated salary for this customer is $100,000.
+[CONVERSATION OUTPUT] **WHAT IS THE SALARY?**
+
+The estimated salary for this customer is $100,000.
+[CONVERSATION OUTPUT] **WHAT IS THE SALARY?**
+
+The estimated salary for this customer is $100,000.
+[CONVERSATION OUTPUT] **WHAT IS THE SALARY?**
+
+The estimated salary for this customer is $100,000.
+[CONVERSATION OUTPUT] **WHAT IS THE SALARY?**
+
+The estimated salary for this customer is $100,000.
+[CONVERSATION OUTPUT] **WHAT IS THE SALARY?**
+
+The estimated salary for this customer is $100,000.
+[CONVERSATION OUTPUT] **WHAT IS THE SALARY?**
+
+The estimated salary for this customer is $100,000.
+[CONVERSATION OUTPUT] **WHAT IS THE SALARY?**
+
+The estimated salary for this customer is $100,000.
+[CONVERSATION OUTPUT] **WHAT IS THE SALARY?**
+
+The estimated salary for this customer is $100,000.
+[CONVERSATION OUTPUT] **WHAT IS THE SALARY?**
+
+The estimated salary for this customer is $100,000.
+[CONVERSATION OUTPUT] **WHAT IS THE SALARY?**
+
+The estimated salary for this customer is $100,000.
+[CONVERSATION OUTPUT] **WHAT IS THE SALARY?**
+
+The estimated salary for this customer is $100,000.
+[CONVERSATION OUTPUT] **WHAT IS THE SALARY?**
+
+The estimated salary for this customer is $100,000.
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.10
+        **Current Customer Profile:**
+        {
+  "CreditScore": 450,
+  "Age": 30,
+  "Tenure": 5,
+  "Balance": 75000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female",
+  "BalanceExists": true
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.10
+        **Current Customer Profile:**
+        {
+  "CreditScore": 450,
+  "Age": 30,
+  "Tenure": 5,
+  "Balance": 75000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female",
+  "BalanceExists": true
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.10
+        **Current Customer Profile:**
+        {
+  "CreditScore": 450,
+  "Age": 30,
+  "Tenure": 5,
+  "Balance": 75000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female",
+  "BalanceExists": true
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.10
+        **Current Customer Profile:**
+        {
+  "CreditScore": 450,
+  "Age": 30,
+  "Tenure": 5,
+  "Balance": 75000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female",
+  "BalanceExists": true
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.10
+        **Current Customer Profile:**
+        {
+  "CreditScore": 450,
+  "Age": 30,
+  "Tenure": 5,
+  "Balance": 75000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female",
+  "BalanceExists": true
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.10
+        **Current Customer Profile:**
+        {
+  "CreditScore": 450,
+  "Age": 30,
+  "Tenure": 5,
+  "Balance": 75000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female",
+  "BalanceExists": true
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.10
+        **Current Customer Profile:**
+        {
+  "CreditScore": 450,
+  "Age": 30,
+  "Tenure": 5,
+  "Balance": 75000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female",
+  "BalanceExists": true
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.10
+        **Current Customer Profile:**
+        {
+  "CreditScore": 450,
+  "Age": 30,
+  "Tenure": 5,
+  "Balance": 75000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female",
+  "BalanceExists": true
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.10
+        **Current Customer Profile:**
+        {
+  "CreditScore": 450,
+  "Age": 30,
+  "Tenure": 5,
+  "Balance": 75000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female",
+  "BalanceExists": true
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.10
+        **Current Customer Profile:**
+        {
+  "CreditScore": 450,
+  "Age": 30,
+  "Tenure": 5,
+  "Balance": 75000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female",
+  "BalanceExists": true
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.10
+        **Current Customer Profile:**
+        {
+  "CreditScore": 450,
+  "Age": 30,
+  "Tenure": 5,
+  "Balance": 75000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female",
+  "BalanceExists": true
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.10
+        **Current Customer Profile:**
+        {
+  "CreditScore": 450,
+  "Age": 30,
+  "Tenure": 5,
+  "Balance": 75000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female",
+  "BalanceExists": true
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.10
+        **Current Customer Profile:**
+        {
+  "CreditScore": 450,
+  "Age": 30,
+  "Tenure": 5,
+  "Balance": 75000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female",
+  "BalanceExists": true
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.10
+        **Current Customer Profile:**
+        {
+  "CreditScore": 450,
+  "Age": 30,
+  "Tenure": 5,
+  "Balance": 75000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female",
+  "BalanceExists": true
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.10
+        **Current Customer Profile:**
+        {
+  "CreditScore": 450,
+  "Age": 30,
+  "Tenure": 5,
+  "Balance": 75000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female",
+  "BalanceExists": true
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.10
+        **Current Customer Profile:**
+        {
+  "CreditScore": 450,
+  "Age": 30,
+  "Tenure": 5,
+  "Balance": 75000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female",
+  "BalanceExists": true
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.10
+        **Current Customer Profile:**
+        {
+  "CreditScore": 450,
+  "Age": 30,
+  "Tenure": 5,
+  "Balance": 75000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female",
+  "BalanceExists": true
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.10
+        **Current Customer Profile:**
+        {
+  "CreditScore": 450,
+  "Age": 30,
+  "Tenure": 5,
+  "Balance": 75000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female",
+  "BalanceExists": true
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.10
+        **Current Customer Profile:**
+        {
+  "CreditScore": 450,
+  "Age": 30,
+  "Tenure": 5,
+  "Balance": 75000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female",
+  "BalanceExists": true
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.10
+        **Current Customer Profile:**
+        {
+  "CreditScore": 450,
+  "Age": 30,
+  "Tenure": 5,
+  "Balance": 75000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female",
+  "BalanceExists": true
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.10
+        **Current Customer Profile:**
+        {
+  "CreditScore": 450,
+  "Age": 30,
+  "Tenure": 5,
+  "Balance": 75000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female",
+  "BalanceExists": true
+}
+        
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer is identified as having a **high risk of churning**, despite a low calculated churn score of 0.10. Several factors in their profile suggest this elevated risk:
+
+*   **Low Credit Score:** A very low credit score of 450 is a significant concern, often indicating financial instability or dissatisfaction that can lead to a customer seeking alternatives.
+*   **Single Product:** The customer only utilizes one product with the bank, reducing their overall engagement and making it easier for them to switch to a competitor.
+*   **Age:** Being 30 years old, this customer falls into a demographic that may be more open to exploring new banking options, especially digital-first services, if their current needs are not fully met.
+
+While the customer is an active member with a healthy balance and salary, the combination of a very poor credit score and limited product engagement likely drives the high churn prediction.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer is identified as having a **high risk of churning**, despite a low calculated churn score of 0.10. Several factors in their profile suggest this elevated risk:
+
+*   **Low Credit Score:** A very low credit score of 450 is a significant concern, often indicating financial instability or dissatisfaction that can lead to a customer seeking alternatives.
+*   **Single Product:** The customer only utilizes one product with the bank, reducing their overall engagement and making it easier for them to switch to a competitor.
+*   **Age:** Being 30 years old, this customer falls into a demographic that may be more open to exploring new banking options, especially digital-first services, if their current needs are not fully met.
+
+While the customer is an active member with a healthy balance and salary, the combination of a very poor credit score and limited product engagement likely drives the high churn prediction.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer is identified as having a **high risk of churning**, despite a low calculated churn score of 0.10. Several factors in their profile suggest this elevated risk:
+
+*   **Low Credit Score:** A very low credit score of 450 is a significant concern, often indicating financial instability or dissatisfaction that can lead to a customer seeking alternatives.
+*   **Single Product:** The customer only utilizes one product with the bank, reducing their overall engagement and making it easier for them to switch to a competitor.
+*   **Age:** Being 30 years old, this customer falls into a demographic that may be more open to exploring new banking options, especially digital-first services, if their current needs are not fully met.
+
+While the customer is an active member with a healthy balance and salary, the combination of a very poor credit score and limited product engagement likely drives the high churn prediction.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer is identified as having a **high risk of churning**, despite a low calculated churn score of 0.10. Several factors in their profile suggest this elevated risk:
+
+*   **Low Credit Score:** A very low credit score of 450 is a significant concern, often indicating financial instability or dissatisfaction that can lead to a customer seeking alternatives.
+*   **Single Product:** The customer only utilizes one product with the bank, reducing their overall engagement and making it easier for them to switch to a competitor.
+*   **Age:** Being 30 years old, this customer falls into a demographic that may be more open to exploring new banking options, especially digital-first services, if their current needs are not fully met.
+
+While the customer is an active member with a healthy balance and salary, the combination of a very poor credit score and limited product engagement likely drives the high churn prediction.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer is identified as having a **high risk of churning**, despite a low calculated churn score of 0.10. Several factors in their profile suggest this elevated risk:
+
+*   **Low Credit Score:** A very low credit score of 450 is a significant concern, often indicating financial instability or dissatisfaction that can lead to a customer seeking alternatives.
+*   **Single Product:** The customer only utilizes one product with the bank, reducing their overall engagement and making it easier for them to switch to a competitor.
+*   **Age:** Being 30 years old, this customer falls into a demographic that may be more open to exploring new banking options, especially digital-first services, if their current needs are not fully met.
+
+While the customer is an active member with a healthy balance and salary, the combination of a very poor credit score and limited product engagement likely drives the high churn prediction.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer is identified as having a **high risk of churning**, despite a low calculated churn score of 0.10. Several factors in their profile suggest this elevated risk:
+
+*   **Low Credit Score:** A very low credit score of 450 is a significant concern, often indicating financial instability or dissatisfaction that can lead to a customer seeking alternatives.
+*   **Single Product:** The customer only utilizes one product with the bank, reducing their overall engagement and making it easier for them to switch to a competitor.
+*   **Age:** Being 30 years old, this customer falls into a demographic that may be more open to exploring new banking options, especially digital-first services, if their current needs are not fully met.
+
+While the customer is an active member with a healthy balance and salary, the combination of a very poor credit score and limited product engagement likely drives the high churn prediction.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer is identified as having a **high risk of churning**, despite a low calculated churn score of 0.10. Several factors in their profile suggest this elevated risk:
+
+*   **Low Credit Score:** A very low credit score of 450 is a significant concern, often indicating financial instability or dissatisfaction that can lead to a customer seeking alternatives.
+*   **Single Product:** The customer only utilizes one product with the bank, reducing their overall engagement and making it easier for them to switch to a competitor.
+*   **Age:** Being 30 years old, this customer falls into a demographic that may be more open to exploring new banking options, especially digital-first services, if their current needs are not fully met.
+
+While the customer is an active member with a healthy balance and salary, the combination of a very poor credit score and limited product engagement likely drives the high churn prediction.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer is identified as having a **high risk of churning**, despite a low calculated churn score of 0.10. Several factors in their profile suggest this elevated risk:
+
+*   **Low Credit Score:** A very low credit score of 450 is a significant concern, often indicating financial instability or dissatisfaction that can lead to a customer seeking alternatives.
+*   **Single Product:** The customer only utilizes one product with the bank, reducing their overall engagement and making it easier for them to switch to a competitor.
+*   **Age:** Being 30 years old, this customer falls into a demographic that may be more open to exploring new banking options, especially digital-first services, if their current needs are not fully met.
+
+While the customer is an active member with a healthy balance and salary, the combination of a very poor credit score and limited product engagement likely drives the high churn prediction.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer is identified as having a **high risk of churning**, despite a low calculated churn score of 0.10. Several factors in their profile suggest this elevated risk:
+
+*   **Low Credit Score:** A very low credit score of 450 is a significant concern, often indicating financial instability or dissatisfaction that can lead to a customer seeking alternatives.
+*   **Single Product:** The customer only utilizes one product with the bank, reducing their overall engagement and making it easier for them to switch to a competitor.
+*   **Age:** Being 30 years old, this customer falls into a demographic that may be more open to exploring new banking options, especially digital-first services, if their current needs are not fully met.
+
+While the customer is an active member with a healthy balance and salary, the combination of a very poor credit score and limited product engagement likely drives the high churn prediction.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer is identified as having a **high risk of churning**, despite a low calculated churn score of 0.10. Several factors in their profile suggest this elevated risk:
+
+*   **Low Credit Score:** A very low credit score of 450 is a significant concern, often indicating financial instability or dissatisfaction that can lead to a customer seeking alternatives.
+*   **Single Product:** The customer only utilizes one product with the bank, reducing their overall engagement and making it easier for them to switch to a competitor.
+*   **Age:** Being 30 years old, this customer falls into a demographic that may be more open to exploring new banking options, especially digital-first services, if their current needs are not fully met.
+
+While the customer is an active member with a healthy balance and salary, the combination of a very poor credit score and limited product engagement likely drives the high churn prediction.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer is identified as having a **high risk of churning**, despite a low calculated churn score of 0.10. Several factors in their profile suggest this elevated risk:
+
+*   **Low Credit Score:** A very low credit score of 450 is a significant concern, often indicating financial instability or dissatisfaction that can lead to a customer seeking alternatives.
+*   **Single Product:** The customer only utilizes one product with the bank, reducing their overall engagement and making it easier for them to switch to a competitor.
+*   **Age:** Being 30 years old, this customer falls into a demographic that may be more open to exploring new banking options, especially digital-first services, if their current needs are not fully met.
+
+While the customer is an active member with a healthy balance and salary, the combination of a very poor credit score and limited product engagement likely drives the high churn prediction.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer is identified as having a **high risk of churning**, despite a low calculated churn score of 0.10. Several factors in their profile suggest this elevated risk:
+
+*   **Low Credit Score:** A very low credit score of 450 is a significant concern, often indicating financial instability or dissatisfaction that can lead to a customer seeking alternatives.
+*   **Single Product:** The customer only utilizes one product with the bank, reducing their overall engagement and making it easier for them to switch to a competitor.
+*   **Age:** Being 30 years old, this customer falls into a demographic that may be more open to exploring new banking options, especially digital-first services, if their current needs are not fully met.
+
+While the customer is an active member with a healthy balance and salary, the combination of a very poor credit score and limited product engagement likely drives the high churn prediction.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer is identified as having a **high risk of churning**, despite a low calculated churn score of 0.10. Several factors in their profile suggest this elevated risk:
+
+*   **Low Credit Score:** A very low credit score of 450 is a significant concern, often indicating financial instability or dissatisfaction that can lead to a customer seeking alternatives.
+*   **Single Product:** The customer only utilizes one product with the bank, reducing their overall engagement and making it easier for them to switch to a competitor.
+*   **Age:** Being 30 years old, this customer falls into a demographic that may be more open to exploring new banking options, especially digital-first services, if their current needs are not fully met.
+
+While the customer is an active member with a healthy balance and salary, the combination of a very poor credit score and limited product engagement likely drives the high churn prediction.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer is identified as having a **high risk of churning**, despite a low calculated churn score of 0.10. Several factors in their profile suggest this elevated risk:
+
+*   **Low Credit Score:** A very low credit score of 450 is a significant concern, often indicating financial instability or dissatisfaction that can lead to a customer seeking alternatives.
+*   **Single Product:** The customer only utilizes one product with the bank, reducing their overall engagement and making it easier for them to switch to a competitor.
+*   **Age:** Being 30 years old, this customer falls into a demographic that may be more open to exploring new banking options, especially digital-first services, if their current needs are not fully met.
+
+While the customer is an active member with a healthy balance and salary, the combination of a very poor credit score and limited product engagement likely drives the high churn prediction.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer is identified as having a **high risk of churning**, despite a low calculated churn score of 0.10. Several factors in their profile suggest this elevated risk:
+
+*   **Low Credit Score:** A very low credit score of 450 is a significant concern, often indicating financial instability or dissatisfaction that can lead to a customer seeking alternatives.
+*   **Single Product:** The customer only utilizes one product with the bank, reducing their overall engagement and making it easier for them to switch to a competitor.
+*   **Age:** Being 30 years old, this customer falls into a demographic that may be more open to exploring new banking options, especially digital-first services, if their current needs are not fully met.
+
+While the customer is an active member with a healthy balance and salary, the combination of a very poor credit score and limited product engagement likely drives the high churn prediction.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer is identified as having a **high risk of churning**, despite a low calculated churn score of 0.10. Several factors in their profile suggest this elevated risk:
+
+*   **Low Credit Score:** A very low credit score of 450 is a significant concern, often indicating financial instability or dissatisfaction that can lead to a customer seeking alternatives.
+*   **Single Product:** The customer only utilizes one product with the bank, reducing their overall engagement and making it easier for them to switch to a competitor.
+*   **Age:** Being 30 years old, this customer falls into a demographic that may be more open to exploring new banking options, especially digital-first services, if their current needs are not fully met.
+
+While the customer is an active member with a healthy balance and salary, the combination of a very poor credit score and limited product engagement likely drives the high churn prediction.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer is identified as having a **high risk of churning**, despite a low calculated churn score of 0.10. Several factors in their profile suggest this elevated risk:
+
+*   **Low Credit Score:** A very low credit score of 450 is a significant concern, often indicating financial instability or dissatisfaction that can lead to a customer seeking alternatives.
+*   **Single Product:** The customer only utilizes one product with the bank, reducing their overall engagement and making it easier for them to switch to a competitor.
+*   **Age:** Being 30 years old, this customer falls into a demographic that may be more open to exploring new banking options, especially digital-first services, if their current needs are not fully met.
+
+While the customer is an active member with a healthy balance and salary, the combination of a very poor credit score and limited product engagement likely drives the high churn prediction.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer is identified as having a **high risk of churning**, despite a low calculated churn score of 0.10. Several factors in their profile suggest this elevated risk:
+
+*   **Low Credit Score:** A very low credit score of 450 is a significant concern, often indicating financial instability or dissatisfaction that can lead to a customer seeking alternatives.
+*   **Single Product:** The customer only utilizes one product with the bank, reducing their overall engagement and making it easier for them to switch to a competitor.
+*   **Age:** Being 30 years old, this customer falls into a demographic that may be more open to exploring new banking options, especially digital-first services, if their current needs are not fully met.
+
+While the customer is an active member with a healthy balance and salary, the combination of a very poor credit score and limited product engagement likely drives the high churn prediction.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer is identified as having a **high risk of churning**, despite a low calculated churn score of 0.10. Several factors in their profile suggest this elevated risk:
+
+*   **Low Credit Score:** A very low credit score of 450 is a significant concern, often indicating financial instability or dissatisfaction that can lead to a customer seeking alternatives.
+*   **Single Product:** The customer only utilizes one product with the bank, reducing their overall engagement and making it easier for them to switch to a competitor.
+*   **Age:** Being 30 years old, this customer falls into a demographic that may be more open to exploring new banking options, especially digital-first services, if their current needs are not fully met.
+
+While the customer is an active member with a healthy balance and salary, the combination of a very poor credit score and limited product engagement likely drives the high churn prediction.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer is identified as having a **high risk of churning**, despite a low calculated churn score of 0.10. Several factors in their profile suggest this elevated risk:
+
+*   **Low Credit Score:** A very low credit score of 450 is a significant concern, often indicating financial instability or dissatisfaction that can lead to a customer seeking alternatives.
+*   **Single Product:** The customer only utilizes one product with the bank, reducing their overall engagement and making it easier for them to switch to a competitor.
+*   **Age:** Being 30 years old, this customer falls into a demographic that may be more open to exploring new banking options, especially digital-first services, if their current needs are not fully met.
+
+While the customer is an active member with a healthy balance and salary, the combination of a very poor credit score and limited product engagement likely drives the high churn prediction.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer is identified as having a **high risk of churning**, despite a low calculated churn score of 0.10. Several factors in their profile suggest this elevated risk:
+
+*   **Low Credit Score:** A very low credit score of 450 is a significant concern, often indicating financial instability or dissatisfaction that can lead to a customer seeking alternatives.
+*   **Single Product:** The customer only utilizes one product with the bank, reducing their overall engagement and making it easier for them to switch to a competitor.
+*   **Age:** Being 30 years old, this customer falls into a demographic that may be more open to exploring new banking options, especially digital-first services, if their current needs are not fully met.
+
+While the customer is an active member with a healthy balance and salary, the combination of a very poor credit score and limited product engagement likely drives the high churn prediction.
+[PROFILE UPDATE INPUT] A male from spain of age 50 and credit score 500
+[PROFILE UPDATE INPUT] A male from spain of age 50 and credit score 500
+[PROFILE UPDATE INPUT] A male from spain of age 50 and credit score 500
+[PROFILE UPDATE INPUT] A male from spain of age 50 and credit score 500
+[PROFILE UPDATE INPUT] A male from spain of age 50 and credit score 500
+[PROFILE UPDATE INPUT] A male from spain of age 50 and credit score 500
+[PROFILE UPDATE INPUT] A male from spain of age 50 and credit score 500
+[PROFILE UPDATE INPUT] A male from spain of age 50 and credit score 500
+[PROFILE UPDATE INPUT] A male from spain of age 50 and credit score 500
+[PROFILE UPDATE INPUT] A male from spain of age 50 and credit score 500
+[PROFILE UPDATE INPUT] A male from spain of age 50 and credit score 500
+[PROFILE UPDATE INPUT] A male from spain of age 50 and credit score 500
+[PROFILE UPDATE INPUT] A male from spain of age 50 and credit score 500
+[PROFILE UPDATE INPUT] A male from spain of age 50 and credit score 500
+[PROFILE UPDATE INPUT] A male from spain of age 50 and credit score 500
+[PROFILE UPDATE INPUT] A male from spain of age 50 and credit score 500
+[PROFILE UPDATE INPUT] A male from spain of age 50 and credit score 500
+[PROFILE UPDATE INPUT] A male from spain of age 50 and credit score 500
+[PROFILE UPDATE INPUT] A male from spain of age 50 and credit score 500
+[PROFILE UPDATE INPUT] A male from spain of age 50 and credit score 500
+[PROFILE UPDATE INPUT] A male from spain of age 50 and credit score 500
+[PROFILE UPDATE INPUT] A male from spain of age 50 and credit score 500
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.26
+        **Current Customer Profile:**
+        {
+  "CreditScore": 500,
+  "Age": 50,
+  "Tenure": 5,
+  "Balance": 75000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Male",
+  "Country": "Spain"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.26
+        **Current Customer Profile:**
+        {
+  "CreditScore": 500,
+  "Age": 50,
+  "Tenure": 5,
+  "Balance": 75000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Male",
+  "Country": "Spain"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.26
+        **Current Customer Profile:**
+        {
+  "CreditScore": 500,
+  "Age": 50,
+  "Tenure": 5,
+  "Balance": 75000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Male",
+  "Country": "Spain"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.26
+        **Current Customer Profile:**
+        {
+  "CreditScore": 500,
+  "Age": 50,
+  "Tenure": 5,
+  "Balance": 75000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Male",
+  "Country": "Spain"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.26
+        **Current Customer Profile:**
+        {
+  "CreditScore": 500,
+  "Age": 50,
+  "Tenure": 5,
+  "Balance": 75000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Male",
+  "Country": "Spain"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.26
+        **Current Customer Profile:**
+        {
+  "CreditScore": 500,
+  "Age": 50,
+  "Tenure": 5,
+  "Balance": 75000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Male",
+  "Country": "Spain"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.26
+        **Current Customer Profile:**
+        {
+  "CreditScore": 500,
+  "Age": 50,
+  "Tenure": 5,
+  "Balance": 75000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Male",
+  "Country": "Spain"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.26
+        **Current Customer Profile:**
+        {
+  "CreditScore": 500,
+  "Age": 50,
+  "Tenure": 5,
+  "Balance": 75000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Male",
+  "Country": "Spain"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.26
+        **Current Customer Profile:**
+        {
+  "CreditScore": 500,
+  "Age": 50,
+  "Tenure": 5,
+  "Balance": 75000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Male",
+  "Country": "Spain"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.26
+        **Current Customer Profile:**
+        {
+  "CreditScore": 500,
+  "Age": 50,
+  "Tenure": 5,
+  "Balance": 75000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Male",
+  "Country": "Spain"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.26
+        **Current Customer Profile:**
+        {
+  "CreditScore": 500,
+  "Age": 50,
+  "Tenure": 5,
+  "Balance": 75000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Male",
+  "Country": "Spain"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.26
+        **Current Customer Profile:**
+        {
+  "CreditScore": 500,
+  "Age": 50,
+  "Tenure": 5,
+  "Balance": 75000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Male",
+  "Country": "Spain"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.26
+        **Current Customer Profile:**
+        {
+  "CreditScore": 500,
+  "Age": 50,
+  "Tenure": 5,
+  "Balance": 75000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Male",
+  "Country": "Spain"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.26
+        **Current Customer Profile:**
+        {
+  "CreditScore": 500,
+  "Age": 50,
+  "Tenure": 5,
+  "Balance": 75000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Male",
+  "Country": "Spain"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.26
+        **Current Customer Profile:**
+        {
+  "CreditScore": 500,
+  "Age": 50,
+  "Tenure": 5,
+  "Balance": 75000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Male",
+  "Country": "Spain"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.26
+        **Current Customer Profile:**
+        {
+  "CreditScore": 500,
+  "Age": 50,
+  "Tenure": 5,
+  "Balance": 75000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Male",
+  "Country": "Spain"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.26
+        **Current Customer Profile:**
+        {
+  "CreditScore": 500,
+  "Age": 50,
+  "Tenure": 5,
+  "Balance": 75000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Male",
+  "Country": "Spain"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.26
+        **Current Customer Profile:**
+        {
+  "CreditScore": 500,
+  "Age": 50,
+  "Tenure": 5,
+  "Balance": 75000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Male",
+  "Country": "Spain"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.26
+        **Current Customer Profile:**
+        {
+  "CreditScore": 500,
+  "Age": 50,
+  "Tenure": 5,
+  "Balance": 75000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Male",
+  "Country": "Spain"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.26
+        **Current Customer Profile:**
+        {
+  "CreditScore": 500,
+  "Age": 50,
+  "Tenure": 5,
+  "Balance": 75000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Male",
+  "Country": "Spain"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.26
+        **Current Customer Profile:**
+        {
+  "CreditScore": 500,
+  "Age": 50,
+  "Tenure": 5,
+  "Balance": 75000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Male",
+  "Country": "Spain"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.26
+        **Current Customer Profile:**
+        {
+  "CreditScore": 500,
+  "Age": 50,
+  "Tenure": 5,
+  "Balance": 75000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Male",
+  "Country": "Spain"
+}
+        
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer is predicted to be at **high risk of churning** with a churn risk score of 0.26. Several factors contribute to this assessment:
+
+*   **Low Credit Score:** A low credit score (500) often indicates financial stress or dissatisfaction, making the customer more likely to seek alternatives.
+*   **Single Product Holding:** The customer only has one product, indicating low engagement and making them less "sticky" with the bank.
+*   **Significant Balance:** While a high balance is good, it means the bank stands to lose a substantial amount of funds if the customer churns.
+*   **Medium Tenure:** With 5 years of tenure, the customer isn't a long-term loyalist and may be open to switching for better offers or service.
+*   **Geographic Discrepancy:** The profile lists "Geography: France" and "Country: Spain," which could indicate a data error or a customer relocation, a common trigger for churn.
+*   **Active Member, Yet High Risk:** Despite being an active member, the combination of other negative factors suggests deep-seated issues that outweigh their current activity.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer is predicted to be at **high risk of churning** with a churn risk score of 0.26. Several factors contribute to this assessment:
+
+*   **Low Credit Score:** A low credit score (500) often indicates financial stress or dissatisfaction, making the customer more likely to seek alternatives.
+*   **Single Product Holding:** The customer only has one product, indicating low engagement and making them less "sticky" with the bank.
+*   **Significant Balance:** While a high balance is good, it means the bank stands to lose a substantial amount of funds if the customer churns.
+*   **Medium Tenure:** With 5 years of tenure, the customer isn't a long-term loyalist and may be open to switching for better offers or service.
+*   **Geographic Discrepancy:** The profile lists "Geography: France" and "Country: Spain," which could indicate a data error or a customer relocation, a common trigger for churn.
+*   **Active Member, Yet High Risk:** Despite being an active member, the combination of other negative factors suggests deep-seated issues that outweigh their current activity.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer is predicted to be at **high risk of churning** with a churn risk score of 0.26. Several factors contribute to this assessment:
+
+*   **Low Credit Score:** A low credit score (500) often indicates financial stress or dissatisfaction, making the customer more likely to seek alternatives.
+*   **Single Product Holding:** The customer only has one product, indicating low engagement and making them less "sticky" with the bank.
+*   **Significant Balance:** While a high balance is good, it means the bank stands to lose a substantial amount of funds if the customer churns.
+*   **Medium Tenure:** With 5 years of tenure, the customer isn't a long-term loyalist and may be open to switching for better offers or service.
+*   **Geographic Discrepancy:** The profile lists "Geography: France" and "Country: Spain," which could indicate a data error or a customer relocation, a common trigger for churn.
+*   **Active Member, Yet High Risk:** Despite being an active member, the combination of other negative factors suggests deep-seated issues that outweigh their current activity.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer is predicted to be at **high risk of churning** with a churn risk score of 0.26. Several factors contribute to this assessment:
+
+*   **Low Credit Score:** A low credit score (500) often indicates financial stress or dissatisfaction, making the customer more likely to seek alternatives.
+*   **Single Product Holding:** The customer only has one product, indicating low engagement and making them less "sticky" with the bank.
+*   **Significant Balance:** While a high balance is good, it means the bank stands to lose a substantial amount of funds if the customer churns.
+*   **Medium Tenure:** With 5 years of tenure, the customer isn't a long-term loyalist and may be open to switching for better offers or service.
+*   **Geographic Discrepancy:** The profile lists "Geography: France" and "Country: Spain," which could indicate a data error or a customer relocation, a common trigger for churn.
+*   **Active Member, Yet High Risk:** Despite being an active member, the combination of other negative factors suggests deep-seated issues that outweigh their current activity.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer is predicted to be at **high risk of churning** with a churn risk score of 0.26. Several factors contribute to this assessment:
+
+*   **Low Credit Score:** A low credit score (500) often indicates financial stress or dissatisfaction, making the customer more likely to seek alternatives.
+*   **Single Product Holding:** The customer only has one product, indicating low engagement and making them less "sticky" with the bank.
+*   **Significant Balance:** While a high balance is good, it means the bank stands to lose a substantial amount of funds if the customer churns.
+*   **Medium Tenure:** With 5 years of tenure, the customer isn't a long-term loyalist and may be open to switching for better offers or service.
+*   **Geographic Discrepancy:** The profile lists "Geography: France" and "Country: Spain," which could indicate a data error or a customer relocation, a common trigger for churn.
+*   **Active Member, Yet High Risk:** Despite being an active member, the combination of other negative factors suggests deep-seated issues that outweigh their current activity.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer is predicted to be at **high risk of churning** with a churn risk score of 0.26. Several factors contribute to this assessment:
+
+*   **Low Credit Score:** A low credit score (500) often indicates financial stress or dissatisfaction, making the customer more likely to seek alternatives.
+*   **Single Product Holding:** The customer only has one product, indicating low engagement and making them less "sticky" with the bank.
+*   **Significant Balance:** While a high balance is good, it means the bank stands to lose a substantial amount of funds if the customer churns.
+*   **Medium Tenure:** With 5 years of tenure, the customer isn't a long-term loyalist and may be open to switching for better offers or service.
+*   **Geographic Discrepancy:** The profile lists "Geography: France" and "Country: Spain," which could indicate a data error or a customer relocation, a common trigger for churn.
+*   **Active Member, Yet High Risk:** Despite being an active member, the combination of other negative factors suggests deep-seated issues that outweigh their current activity.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer is predicted to be at **high risk of churning** with a churn risk score of 0.26. Several factors contribute to this assessment:
+
+*   **Low Credit Score:** A low credit score (500) often indicates financial stress or dissatisfaction, making the customer more likely to seek alternatives.
+*   **Single Product Holding:** The customer only has one product, indicating low engagement and making them less "sticky" with the bank.
+*   **Significant Balance:** While a high balance is good, it means the bank stands to lose a substantial amount of funds if the customer churns.
+*   **Medium Tenure:** With 5 years of tenure, the customer isn't a long-term loyalist and may be open to switching for better offers or service.
+*   **Geographic Discrepancy:** The profile lists "Geography: France" and "Country: Spain," which could indicate a data error or a customer relocation, a common trigger for churn.
+*   **Active Member, Yet High Risk:** Despite being an active member, the combination of other negative factors suggests deep-seated issues that outweigh their current activity.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer is predicted to be at **high risk of churning** with a churn risk score of 0.26. Several factors contribute to this assessment:
+
+*   **Low Credit Score:** A low credit score (500) often indicates financial stress or dissatisfaction, making the customer more likely to seek alternatives.
+*   **Single Product Holding:** The customer only has one product, indicating low engagement and making them less "sticky" with the bank.
+*   **Significant Balance:** While a high balance is good, it means the bank stands to lose a substantial amount of funds if the customer churns.
+*   **Medium Tenure:** With 5 years of tenure, the customer isn't a long-term loyalist and may be open to switching for better offers or service.
+*   **Geographic Discrepancy:** The profile lists "Geography: France" and "Country: Spain," which could indicate a data error or a customer relocation, a common trigger for churn.
+*   **Active Member, Yet High Risk:** Despite being an active member, the combination of other negative factors suggests deep-seated issues that outweigh their current activity.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer is predicted to be at **high risk of churning** with a churn risk score of 0.26. Several factors contribute to this assessment:
+
+*   **Low Credit Score:** A low credit score (500) often indicates financial stress or dissatisfaction, making the customer more likely to seek alternatives.
+*   **Single Product Holding:** The customer only has one product, indicating low engagement and making them less "sticky" with the bank.
+*   **Significant Balance:** While a high balance is good, it means the bank stands to lose a substantial amount of funds if the customer churns.
+*   **Medium Tenure:** With 5 years of tenure, the customer isn't a long-term loyalist and may be open to switching for better offers or service.
+*   **Geographic Discrepancy:** The profile lists "Geography: France" and "Country: Spain," which could indicate a data error or a customer relocation, a common trigger for churn.
+*   **Active Member, Yet High Risk:** Despite being an active member, the combination of other negative factors suggests deep-seated issues that outweigh their current activity.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer is predicted to be at **high risk of churning** with a churn risk score of 0.26. Several factors contribute to this assessment:
+
+*   **Low Credit Score:** A low credit score (500) often indicates financial stress or dissatisfaction, making the customer more likely to seek alternatives.
+*   **Single Product Holding:** The customer only has one product, indicating low engagement and making them less "sticky" with the bank.
+*   **Significant Balance:** While a high balance is good, it means the bank stands to lose a substantial amount of funds if the customer churns.
+*   **Medium Tenure:** With 5 years of tenure, the customer isn't a long-term loyalist and may be open to switching for better offers or service.
+*   **Geographic Discrepancy:** The profile lists "Geography: France" and "Country: Spain," which could indicate a data error or a customer relocation, a common trigger for churn.
+*   **Active Member, Yet High Risk:** Despite being an active member, the combination of other negative factors suggests deep-seated issues that outweigh their current activity.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer is predicted to be at **high risk of churning** with a churn risk score of 0.26. Several factors contribute to this assessment:
+
+*   **Low Credit Score:** A low credit score (500) often indicates financial stress or dissatisfaction, making the customer more likely to seek alternatives.
+*   **Single Product Holding:** The customer only has one product, indicating low engagement and making them less "sticky" with the bank.
+*   **Significant Balance:** While a high balance is good, it means the bank stands to lose a substantial amount of funds if the customer churns.
+*   **Medium Tenure:** With 5 years of tenure, the customer isn't a long-term loyalist and may be open to switching for better offers or service.
+*   **Geographic Discrepancy:** The profile lists "Geography: France" and "Country: Spain," which could indicate a data error or a customer relocation, a common trigger for churn.
+*   **Active Member, Yet High Risk:** Despite being an active member, the combination of other negative factors suggests deep-seated issues that outweigh their current activity.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer is predicted to be at **high risk of churning** with a churn risk score of 0.26. Several factors contribute to this assessment:
+
+*   **Low Credit Score:** A low credit score (500) often indicates financial stress or dissatisfaction, making the customer more likely to seek alternatives.
+*   **Single Product Holding:** The customer only has one product, indicating low engagement and making them less "sticky" with the bank.
+*   **Significant Balance:** While a high balance is good, it means the bank stands to lose a substantial amount of funds if the customer churns.
+*   **Medium Tenure:** With 5 years of tenure, the customer isn't a long-term loyalist and may be open to switching for better offers or service.
+*   **Geographic Discrepancy:** The profile lists "Geography: France" and "Country: Spain," which could indicate a data error or a customer relocation, a common trigger for churn.
+*   **Active Member, Yet High Risk:** Despite being an active member, the combination of other negative factors suggests deep-seated issues that outweigh their current activity.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer is predicted to be at **high risk of churning** with a churn risk score of 0.26. Several factors contribute to this assessment:
+
+*   **Low Credit Score:** A low credit score (500) often indicates financial stress or dissatisfaction, making the customer more likely to seek alternatives.
+*   **Single Product Holding:** The customer only has one product, indicating low engagement and making them less "sticky" with the bank.
+*   **Significant Balance:** While a high balance is good, it means the bank stands to lose a substantial amount of funds if the customer churns.
+*   **Medium Tenure:** With 5 years of tenure, the customer isn't a long-term loyalist and may be open to switching for better offers or service.
+*   **Geographic Discrepancy:** The profile lists "Geography: France" and "Country: Spain," which could indicate a data error or a customer relocation, a common trigger for churn.
+*   **Active Member, Yet High Risk:** Despite being an active member, the combination of other negative factors suggests deep-seated issues that outweigh their current activity.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer is predicted to be at **high risk of churning** with a churn risk score of 0.26. Several factors contribute to this assessment:
+
+*   **Low Credit Score:** A low credit score (500) often indicates financial stress or dissatisfaction, making the customer more likely to seek alternatives.
+*   **Single Product Holding:** The customer only has one product, indicating low engagement and making them less "sticky" with the bank.
+*   **Significant Balance:** While a high balance is good, it means the bank stands to lose a substantial amount of funds if the customer churns.
+*   **Medium Tenure:** With 5 years of tenure, the customer isn't a long-term loyalist and may be open to switching for better offers or service.
+*   **Geographic Discrepancy:** The profile lists "Geography: France" and "Country: Spain," which could indicate a data error or a customer relocation, a common trigger for churn.
+*   **Active Member, Yet High Risk:** Despite being an active member, the combination of other negative factors suggests deep-seated issues that outweigh their current activity.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer is predicted to be at **high risk of churning** with a churn risk score of 0.26. Several factors contribute to this assessment:
+
+*   **Low Credit Score:** A low credit score (500) often indicates financial stress or dissatisfaction, making the customer more likely to seek alternatives.
+*   **Single Product Holding:** The customer only has one product, indicating low engagement and making them less "sticky" with the bank.
+*   **Significant Balance:** While a high balance is good, it means the bank stands to lose a substantial amount of funds if the customer churns.
+*   **Medium Tenure:** With 5 years of tenure, the customer isn't a long-term loyalist and may be open to switching for better offers or service.
+*   **Geographic Discrepancy:** The profile lists "Geography: France" and "Country: Spain," which could indicate a data error or a customer relocation, a common trigger for churn.
+*   **Active Member, Yet High Risk:** Despite being an active member, the combination of other negative factors suggests deep-seated issues that outweigh their current activity.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer is predicted to be at **high risk of churning** with a churn risk score of 0.26. Several factors contribute to this assessment:
+
+*   **Low Credit Score:** A low credit score (500) often indicates financial stress or dissatisfaction, making the customer more likely to seek alternatives.
+*   **Single Product Holding:** The customer only has one product, indicating low engagement and making them less "sticky" with the bank.
+*   **Significant Balance:** While a high balance is good, it means the bank stands to lose a substantial amount of funds if the customer churns.
+*   **Medium Tenure:** With 5 years of tenure, the customer isn't a long-term loyalist and may be open to switching for better offers or service.
+*   **Geographic Discrepancy:** The profile lists "Geography: France" and "Country: Spain," which could indicate a data error or a customer relocation, a common trigger for churn.
+*   **Active Member, Yet High Risk:** Despite being an active member, the combination of other negative factors suggests deep-seated issues that outweigh their current activity.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer is predicted to be at **high risk of churning** with a churn risk score of 0.26. Several factors contribute to this assessment:
+
+*   **Low Credit Score:** A low credit score (500) often indicates financial stress or dissatisfaction, making the customer more likely to seek alternatives.
+*   **Single Product Holding:** The customer only has one product, indicating low engagement and making them less "sticky" with the bank.
+*   **Significant Balance:** While a high balance is good, it means the bank stands to lose a substantial amount of funds if the customer churns.
+*   **Medium Tenure:** With 5 years of tenure, the customer isn't a long-term loyalist and may be open to switching for better offers or service.
+*   **Geographic Discrepancy:** The profile lists "Geography: France" and "Country: Spain," which could indicate a data error or a customer relocation, a common trigger for churn.
+*   **Active Member, Yet High Risk:** Despite being an active member, the combination of other negative factors suggests deep-seated issues that outweigh their current activity.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer is predicted to be at **high risk of churning** with a churn risk score of 0.26. Several factors contribute to this assessment:
+
+*   **Low Credit Score:** A low credit score (500) often indicates financial stress or dissatisfaction, making the customer more likely to seek alternatives.
+*   **Single Product Holding:** The customer only has one product, indicating low engagement and making them less "sticky" with the bank.
+*   **Significant Balance:** While a high balance is good, it means the bank stands to lose a substantial amount of funds if the customer churns.
+*   **Medium Tenure:** With 5 years of tenure, the customer isn't a long-term loyalist and may be open to switching for better offers or service.
+*   **Geographic Discrepancy:** The profile lists "Geography: France" and "Country: Spain," which could indicate a data error or a customer relocation, a common trigger for churn.
+*   **Active Member, Yet High Risk:** Despite being an active member, the combination of other negative factors suggests deep-seated issues that outweigh their current activity.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer is predicted to be at **high risk of churning** with a churn risk score of 0.26. Several factors contribute to this assessment:
+
+*   **Low Credit Score:** A low credit score (500) often indicates financial stress or dissatisfaction, making the customer more likely to seek alternatives.
+*   **Single Product Holding:** The customer only has one product, indicating low engagement and making them less "sticky" with the bank.
+*   **Significant Balance:** While a high balance is good, it means the bank stands to lose a substantial amount of funds if the customer churns.
+*   **Medium Tenure:** With 5 years of tenure, the customer isn't a long-term loyalist and may be open to switching for better offers or service.
+*   **Geographic Discrepancy:** The profile lists "Geography: France" and "Country: Spain," which could indicate a data error or a customer relocation, a common trigger for churn.
+*   **Active Member, Yet High Risk:** Despite being an active member, the combination of other negative factors suggests deep-seated issues that outweigh their current activity.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer is predicted to be at **high risk of churning** with a churn risk score of 0.26. Several factors contribute to this assessment:
+
+*   **Low Credit Score:** A low credit score (500) often indicates financial stress or dissatisfaction, making the customer more likely to seek alternatives.
+*   **Single Product Holding:** The customer only has one product, indicating low engagement and making them less "sticky" with the bank.
+*   **Significant Balance:** While a high balance is good, it means the bank stands to lose a substantial amount of funds if the customer churns.
+*   **Medium Tenure:** With 5 years of tenure, the customer isn't a long-term loyalist and may be open to switching for better offers or service.
+*   **Geographic Discrepancy:** The profile lists "Geography: France" and "Country: Spain," which could indicate a data error or a customer relocation, a common trigger for churn.
+*   **Active Member, Yet High Risk:** Despite being an active member, the combination of other negative factors suggests deep-seated issues that outweigh their current activity.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer is predicted to be at **high risk of churning** with a churn risk score of 0.26. Several factors contribute to this assessment:
+
+*   **Low Credit Score:** A low credit score (500) often indicates financial stress or dissatisfaction, making the customer more likely to seek alternatives.
+*   **Single Product Holding:** The customer only has one product, indicating low engagement and making them less "sticky" with the bank.
+*   **Significant Balance:** While a high balance is good, it means the bank stands to lose a substantial amount of funds if the customer churns.
+*   **Medium Tenure:** With 5 years of tenure, the customer isn't a long-term loyalist and may be open to switching for better offers or service.
+*   **Geographic Discrepancy:** The profile lists "Geography: France" and "Country: Spain," which could indicate a data error or a customer relocation, a common trigger for churn.
+*   **Active Member, Yet High Risk:** Despite being an active member, the combination of other negative factors suggests deep-seated issues that outweigh their current activity.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer is predicted to be at **high risk of churning** with a churn risk score of 0.26. Several factors contribute to this assessment:
+
+*   **Low Credit Score:** A low credit score (500) often indicates financial stress or dissatisfaction, making the customer more likely to seek alternatives.
+*   **Single Product Holding:** The customer only has one product, indicating low engagement and making them less "sticky" with the bank.
+*   **Significant Balance:** While a high balance is good, it means the bank stands to lose a substantial amount of funds if the customer churns.
+*   **Medium Tenure:** With 5 years of tenure, the customer isn't a long-term loyalist and may be open to switching for better offers or service.
+*   **Geographic Discrepancy:** The profile lists "Geography: France" and "Country: Spain," which could indicate a data error or a customer relocation, a common trigger for churn.
+*   **Active Member, Yet High Risk:** Despite being an active member, the combination of other negative factors suggests deep-seated issues that outweigh their current activity.
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE OUTPUT] {
+  "Gender": "Female",
+  "MinAge": 30,
+  "MaxAge": 39,
+  "CreditScore": 0,
+  "Balance": 0
+}
+[PROFILE UPDATE OUTPUT] {
+  "Gender": "Female",
+  "MinAge": 30,
+  "MaxAge": 39,
+  "CreditScore": 0,
+  "Balance": 0
+}
+[PROFILE UPDATE OUTPUT] {
+  "Gender": "Female",
+  "MinAge": 30,
+  "MaxAge": 39,
+  "CreditScore": 0,
+  "Balance": 0
+}
+[PROFILE UPDATE OUTPUT] {
+  "Gender": "Female",
+  "MinAge": 30,
+  "MaxAge": 39,
+  "CreditScore": 0,
+  "Balance": 0
+}
+[PROFILE UPDATE OUTPUT] {
+  "Gender": "Female",
+  "MinAge": 30,
+  "MaxAge": 39,
+  "CreditScore": 0,
+  "Balance": 0
+}
+[PROFILE UPDATE OUTPUT] {
+  "Gender": "Female",
+  "MinAge": 30,
+  "MaxAge": 39,
+  "CreditScore": 0,
+  "Balance": 0
+}
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.26
+        **Current Customer Profile:**
+        {
+  "CreditScore": 0,
+  "Age": 38,
+  "Tenure": 5,
+  "Balance": 0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female",
+  "MinAge": 30,
+  "MaxAge": 39
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.26
+        **Current Customer Profile:**
+        {
+  "CreditScore": 0,
+  "Age": 38,
+  "Tenure": 5,
+  "Balance": 0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female",
+  "MinAge": 30,
+  "MaxAge": 39
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.26
+        **Current Customer Profile:**
+        {
+  "CreditScore": 0,
+  "Age": 38,
+  "Tenure": 5,
+  "Balance": 0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female",
+  "MinAge": 30,
+  "MaxAge": 39
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.26
+        **Current Customer Profile:**
+        {
+  "CreditScore": 0,
+  "Age": 38,
+  "Tenure": 5,
+  "Balance": 0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female",
+  "MinAge": 30,
+  "MaxAge": 39
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.26
+        **Current Customer Profile:**
+        {
+  "CreditScore": 0,
+  "Age": 38,
+  "Tenure": 5,
+  "Balance": 0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female",
+  "MinAge": 30,
+  "MaxAge": 39
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.26
+        **Current Customer Profile:**
+        {
+  "CreditScore": 0,
+  "Age": 38,
+  "Tenure": 5,
+  "Balance": 0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female",
+  "MinAge": 30,
+  "MaxAge": 39
+}
+        
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer has a **26% probability of churning**, indicating a significant risk of leaving the bank. Several key factors contribute to this assessment:
+
+*   **Zero Account Balance:** The customer holds a zero balance, which is a major red flag. This strongly suggests they are not using the bank for their primary financial needs and may have already moved their funds elsewhere.
+*   **Single Product Holding:** With only one product, the customer has lower engagement and fewer ties to the bank, making it easier for them to switch to a competitor.
+*   **Unusual Credit Score:** A reported Credit Score of '0' is highly unusual. This could indicate missing data, a data entry error, or a severe credit issue that warrants immediate investigation.
+*   **Active Member with Zero Balance:** While listed as an active member, the zero balance creates a contradiction. This might mean they log in but don't actively transact, further supporting the idea of low financial engagement.
+*   **Good Estimated Salary:** Despite the zero balance, the customer has a substantial estimated salary. This implies they have financial capacity to manage funds, likely at another institution.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer has a **26% probability of churning**, indicating a significant risk of leaving the bank. Several key factors contribute to this assessment:
+
+*   **Zero Account Balance:** The customer holds a zero balance, which is a major red flag. This strongly suggests they are not using the bank for their primary financial needs and may have already moved their funds elsewhere.
+*   **Single Product Holding:** With only one product, the customer has lower engagement and fewer ties to the bank, making it easier for them to switch to a competitor.
+*   **Unusual Credit Score:** A reported Credit Score of '0' is highly unusual. This could indicate missing data, a data entry error, or a severe credit issue that warrants immediate investigation.
+*   **Active Member with Zero Balance:** While listed as an active member, the zero balance creates a contradiction. This might mean they log in but don't actively transact, further supporting the idea of low financial engagement.
+*   **Good Estimated Salary:** Despite the zero balance, the customer has a substantial estimated salary. This implies they have financial capacity to manage funds, likely at another institution.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer has a **26% probability of churning**, indicating a significant risk of leaving the bank. Several key factors contribute to this assessment:
+
+*   **Zero Account Balance:** The customer holds a zero balance, which is a major red flag. This strongly suggests they are not using the bank for their primary financial needs and may have already moved their funds elsewhere.
+*   **Single Product Holding:** With only one product, the customer has lower engagement and fewer ties to the bank, making it easier for them to switch to a competitor.
+*   **Unusual Credit Score:** A reported Credit Score of '0' is highly unusual. This could indicate missing data, a data entry error, or a severe credit issue that warrants immediate investigation.
+*   **Active Member with Zero Balance:** While listed as an active member, the zero balance creates a contradiction. This might mean they log in but don't actively transact, further supporting the idea of low financial engagement.
+*   **Good Estimated Salary:** Despite the zero balance, the customer has a substantial estimated salary. This implies they have financial capacity to manage funds, likely at another institution.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer has a **26% probability of churning**, indicating a significant risk of leaving the bank. Several key factors contribute to this assessment:
+
+*   **Zero Account Balance:** The customer holds a zero balance, which is a major red flag. This strongly suggests they are not using the bank for their primary financial needs and may have already moved their funds elsewhere.
+*   **Single Product Holding:** With only one product, the customer has lower engagement and fewer ties to the bank, making it easier for them to switch to a competitor.
+*   **Unusual Credit Score:** A reported Credit Score of '0' is highly unusual. This could indicate missing data, a data entry error, or a severe credit issue that warrants immediate investigation.
+*   **Active Member with Zero Balance:** While listed as an active member, the zero balance creates a contradiction. This might mean they log in but don't actively transact, further supporting the idea of low financial engagement.
+*   **Good Estimated Salary:** Despite the zero balance, the customer has a substantial estimated salary. This implies they have financial capacity to manage funds, likely at another institution.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer has a **26% probability of churning**, indicating a significant risk of leaving the bank. Several key factors contribute to this assessment:
+
+*   **Zero Account Balance:** The customer holds a zero balance, which is a major red flag. This strongly suggests they are not using the bank for their primary financial needs and may have already moved their funds elsewhere.
+*   **Single Product Holding:** With only one product, the customer has lower engagement and fewer ties to the bank, making it easier for them to switch to a competitor.
+*   **Unusual Credit Score:** A reported Credit Score of '0' is highly unusual. This could indicate missing data, a data entry error, or a severe credit issue that warrants immediate investigation.
+*   **Active Member with Zero Balance:** While listed as an active member, the zero balance creates a contradiction. This might mean they log in but don't actively transact, further supporting the idea of low financial engagement.
+*   **Good Estimated Salary:** Despite the zero balance, the customer has a substantial estimated salary. This implies they have financial capacity to manage funds, likely at another institution.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+This customer has a **26% probability of churning**, indicating a significant risk of leaving the bank. Several key factors contribute to this assessment:
+
+*   **Zero Account Balance:** The customer holds a zero balance, which is a major red flag. This strongly suggests they are not using the bank for their primary financial needs and may have already moved their funds elsewhere.
+*   **Single Product Holding:** With only one product, the customer has lower engagement and fewer ties to the bank, making it easier for them to switch to a competitor.
+*   **Unusual Credit Score:** A reported Credit Score of '0' is highly unusual. This could indicate missing data, a data entry error, or a severe credit issue that warrants immediate investigation.
+*   **Active Member with Zero Balance:** While listed as an active member, the zero balance creates a contradiction. This might mean they log in but don't actively transact, further supporting the idea of low financial engagement.
+*   **Good Estimated Salary:** Despite the zero balance, the customer has a substantial estimated salary. This implies they have financial capacity to manage funds, likely at another institution.
+[PROFILE UPDATE INPUT] the woman is from germany
+[PROFILE UPDATE INPUT] the woman is from germany
+[PROFILE UPDATE INPUT] the woman is from germany
+[PROFILE UPDATE INPUT] the woman is from germany
+[PROFILE UPDATE INPUT] the woman is from germany
+[PROFILE UPDATE INPUT] the woman is from germany
+[PROFILE UPDATE INPUT] the woman is from germany
+[PROFILE UPDATE OUTPUT] {
+  "Country": "Germany",
+  "Gender": "Female"
+}
+[PROFILE UPDATE OUTPUT] {
+  "Country": "Germany",
+  "Gender": "Female"
+}
+[PROFILE UPDATE OUTPUT] {
+  "Country": "Germany",
+  "Gender": "Female"
+}
+[PROFILE UPDATE OUTPUT] {
+  "Country": "Germany",
+  "Gender": "Female"
+}
+[PROFILE UPDATE OUTPUT] {
+  "Country": "Germany",
+  "Gender": "Female"
+}
+[PROFILE UPDATE OUTPUT] {
+  "Country": "Germany",
+  "Gender": "Female"
+}
+[PROFILE UPDATE OUTPUT] {
+  "Country": "Germany",
+  "Gender": "Female"
+}
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.26
+        **Current Customer Profile:**
+        {
+  "CreditScore": 0,
+  "Age": 38,
+  "Tenure": 5,
+  "Balance": 0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female",
+  "MinAge": 30,
+  "MaxAge": 39,
+  "Country": "Germany"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.26
+        **Current Customer Profile:**
+        {
+  "CreditScore": 0,
+  "Age": 38,
+  "Tenure": 5,
+  "Balance": 0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female",
+  "MinAge": 30,
+  "MaxAge": 39,
+  "Country": "Germany"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.26
+        **Current Customer Profile:**
+        {
+  "CreditScore": 0,
+  "Age": 38,
+  "Tenure": 5,
+  "Balance": 0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female",
+  "MinAge": 30,
+  "MaxAge": 39,
+  "Country": "Germany"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.26
+        **Current Customer Profile:**
+        {
+  "CreditScore": 0,
+  "Age": 38,
+  "Tenure": 5,
+  "Balance": 0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female",
+  "MinAge": 30,
+  "MaxAge": 39,
+  "Country": "Germany"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.26
+        **Current Customer Profile:**
+        {
+  "CreditScore": 0,
+  "Age": 38,
+  "Tenure": 5,
+  "Balance": 0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female",
+  "MinAge": 30,
+  "MaxAge": 39,
+  "Country": "Germany"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.26
+        **Current Customer Profile:**
+        {
+  "CreditScore": 0,
+  "Age": 38,
+  "Tenure": 5,
+  "Balance": 0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female",
+  "MinAge": 30,
+  "MaxAge": 39,
+  "Country": "Germany"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.26
+        **Current Customer Profile:**
+        {
+  "CreditScore": 0,
+  "Age": 38,
+  "Tenure": 5,
+  "Balance": 0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female",
+  "MinAge": 30,
+  "MaxAge": 39,
+  "Country": "Germany"
+}
+        
+[CONVERSATION OUTPUT] **High Churn Risk Identified**
+
+The customer is at a **high risk of churning** (leaving the bank), with a predictive score of 0.26, indicating a significant likelihood of departure.
+
+Here's a concise summary of the assessment points:
+
+*   **Zero Balance & Low Product Engagement:** A critical concern is the customer's zero balance, indicating no active funds held with the bank. Coupled with holding only one product, this suggests the bank is not their primary financial institution, leading to low engagement and high churn potential.
+*   **Credit Score Anomaly:** The reported Credit Score of 0 is highly unusual and warrants immediate investigation. This could be a data error or a severe negative indicator, significantly impacting the overall risk assessment.
+*   **Geographic Discrepancy:** The profile lists "Geography: France" and "Country: Germany." This inconsistency requires clarification as it could signal a recent relocation or an administrative error, both of which can be churn triggers.
+*   **Active Member Status:** Despite being marked as an "Active Member," the zero balance and single product holding contradict deep engagement. This suggests activity might be limited to a specific service (e.g., a credit card) rather than comprehensive banking.
+*   **Demographic Context:** The customer is a 38-year-old female with an estimated annual salary of $100,000. While these factors are generally stable, they do not mitigate the strong churn indicators identified by other profile attributes.
+[CONVERSATION OUTPUT] **High Churn Risk Identified**
+
+The customer is at a **high risk of churning** (leaving the bank), with a predictive score of 0.26, indicating a significant likelihood of departure.
+
+Here's a concise summary of the assessment points:
+
+*   **Zero Balance & Low Product Engagement:** A critical concern is the customer's zero balance, indicating no active funds held with the bank. Coupled with holding only one product, this suggests the bank is not their primary financial institution, leading to low engagement and high churn potential.
+*   **Credit Score Anomaly:** The reported Credit Score of 0 is highly unusual and warrants immediate investigation. This could be a data error or a severe negative indicator, significantly impacting the overall risk assessment.
+*   **Geographic Discrepancy:** The profile lists "Geography: France" and "Country: Germany." This inconsistency requires clarification as it could signal a recent relocation or an administrative error, both of which can be churn triggers.
+*   **Active Member Status:** Despite being marked as an "Active Member," the zero balance and single product holding contradict deep engagement. This suggests activity might be limited to a specific service (e.g., a credit card) rather than comprehensive banking.
+*   **Demographic Context:** The customer is a 38-year-old female with an estimated annual salary of $100,000. While these factors are generally stable, they do not mitigate the strong churn indicators identified by other profile attributes.
+[CONVERSATION OUTPUT] **High Churn Risk Identified**
+
+The customer is at a **high risk of churning** (leaving the bank), with a predictive score of 0.26, indicating a significant likelihood of departure.
+
+Here's a concise summary of the assessment points:
+
+*   **Zero Balance & Low Product Engagement:** A critical concern is the customer's zero balance, indicating no active funds held with the bank. Coupled with holding only one product, this suggests the bank is not their primary financial institution, leading to low engagement and high churn potential.
+*   **Credit Score Anomaly:** The reported Credit Score of 0 is highly unusual and warrants immediate investigation. This could be a data error or a severe negative indicator, significantly impacting the overall risk assessment.
+*   **Geographic Discrepancy:** The profile lists "Geography: France" and "Country: Germany." This inconsistency requires clarification as it could signal a recent relocation or an administrative error, both of which can be churn triggers.
+*   **Active Member Status:** Despite being marked as an "Active Member," the zero balance and single product holding contradict deep engagement. This suggests activity might be limited to a specific service (e.g., a credit card) rather than comprehensive banking.
+*   **Demographic Context:** The customer is a 38-year-old female with an estimated annual salary of $100,000. While these factors are generally stable, they do not mitigate the strong churn indicators identified by other profile attributes.
+[CONVERSATION OUTPUT] **High Churn Risk Identified**
+
+The customer is at a **high risk of churning** (leaving the bank), with a predictive score of 0.26, indicating a significant likelihood of departure.
+
+Here's a concise summary of the assessment points:
+
+*   **Zero Balance & Low Product Engagement:** A critical concern is the customer's zero balance, indicating no active funds held with the bank. Coupled with holding only one product, this suggests the bank is not their primary financial institution, leading to low engagement and high churn potential.
+*   **Credit Score Anomaly:** The reported Credit Score of 0 is highly unusual and warrants immediate investigation. This could be a data error or a severe negative indicator, significantly impacting the overall risk assessment.
+*   **Geographic Discrepancy:** The profile lists "Geography: France" and "Country: Germany." This inconsistency requires clarification as it could signal a recent relocation or an administrative error, both of which can be churn triggers.
+*   **Active Member Status:** Despite being marked as an "Active Member," the zero balance and single product holding contradict deep engagement. This suggests activity might be limited to a specific service (e.g., a credit card) rather than comprehensive banking.
+*   **Demographic Context:** The customer is a 38-year-old female with an estimated annual salary of $100,000. While these factors are generally stable, they do not mitigate the strong churn indicators identified by other profile attributes.
+[CONVERSATION OUTPUT] **High Churn Risk Identified**
+
+The customer is at a **high risk of churning** (leaving the bank), with a predictive score of 0.26, indicating a significant likelihood of departure.
+
+Here's a concise summary of the assessment points:
+
+*   **Zero Balance & Low Product Engagement:** A critical concern is the customer's zero balance, indicating no active funds held with the bank. Coupled with holding only one product, this suggests the bank is not their primary financial institution, leading to low engagement and high churn potential.
+*   **Credit Score Anomaly:** The reported Credit Score of 0 is highly unusual and warrants immediate investigation. This could be a data error or a severe negative indicator, significantly impacting the overall risk assessment.
+*   **Geographic Discrepancy:** The profile lists "Geography: France" and "Country: Germany." This inconsistency requires clarification as it could signal a recent relocation or an administrative error, both of which can be churn triggers.
+*   **Active Member Status:** Despite being marked as an "Active Member," the zero balance and single product holding contradict deep engagement. This suggests activity might be limited to a specific service (e.g., a credit card) rather than comprehensive banking.
+*   **Demographic Context:** The customer is a 38-year-old female with an estimated annual salary of $100,000. While these factors are generally stable, they do not mitigate the strong churn indicators identified by other profile attributes.
+[CONVERSATION OUTPUT] **High Churn Risk Identified**
+
+The customer is at a **high risk of churning** (leaving the bank), with a predictive score of 0.26, indicating a significant likelihood of departure.
+
+Here's a concise summary of the assessment points:
+
+*   **Zero Balance & Low Product Engagement:** A critical concern is the customer's zero balance, indicating no active funds held with the bank. Coupled with holding only one product, this suggests the bank is not their primary financial institution, leading to low engagement and high churn potential.
+*   **Credit Score Anomaly:** The reported Credit Score of 0 is highly unusual and warrants immediate investigation. This could be a data error or a severe negative indicator, significantly impacting the overall risk assessment.
+*   **Geographic Discrepancy:** The profile lists "Geography: France" and "Country: Germany." This inconsistency requires clarification as it could signal a recent relocation or an administrative error, both of which can be churn triggers.
+*   **Active Member Status:** Despite being marked as an "Active Member," the zero balance and single product holding contradict deep engagement. This suggests activity might be limited to a specific service (e.g., a credit card) rather than comprehensive banking.
+*   **Demographic Context:** The customer is a 38-year-old female with an estimated annual salary of $100,000. While these factors are generally stable, they do not mitigate the strong churn indicators identified by other profile attributes.
+[CONVERSATION OUTPUT] **High Churn Risk Identified**
+
+The customer is at a **high risk of churning** (leaving the bank), with a predictive score of 0.26, indicating a significant likelihood of departure.
+
+Here's a concise summary of the assessment points:
+
+*   **Zero Balance & Low Product Engagement:** A critical concern is the customer's zero balance, indicating no active funds held with the bank. Coupled with holding only one product, this suggests the bank is not their primary financial institution, leading to low engagement and high churn potential.
+*   **Credit Score Anomaly:** The reported Credit Score of 0 is highly unusual and warrants immediate investigation. This could be a data error or a severe negative indicator, significantly impacting the overall risk assessment.
+*   **Geographic Discrepancy:** The profile lists "Geography: France" and "Country: Germany." This inconsistency requires clarification as it could signal a recent relocation or an administrative error, both of which can be churn triggers.
+*   **Active Member Status:** Despite being marked as an "Active Member," the zero balance and single product holding contradict deep engagement. This suggests activity might be limited to a specific service (e.g., a credit card) rather than comprehensive banking.
+*   **Demographic Context:** The customer is a 38-year-old female with an estimated annual salary of $100,000. While these factors are generally stable, they do not mitigate the strong churn indicators identified by other profile attributes.
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE INPUT] A female in her 30's with a poor credit score and balance
+[PROFILE UPDATE OUTPUT] {
+  "CreditScore": 550,
+  "Age": 35,
+  "Tenure": 5,
+  "Balance": 50000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female"
+}
+[PROFILE UPDATE OUTPUT] {
+  "CreditScore": 550,
+  "Age": 35,
+  "Tenure": 5,
+  "Balance": 50000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female"
+}
+[PROFILE UPDATE OUTPUT] {
+  "CreditScore": 550,
+  "Age": 35,
+  "Tenure": 5,
+  "Balance": 50000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female"
+}
+[PROFILE UPDATE OUTPUT] {
+  "CreditScore": 550,
+  "Age": 35,
+  "Tenure": 5,
+  "Balance": 50000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female"
+}
+[PROFILE UPDATE OUTPUT] {
+  "CreditScore": 550,
+  "Age": 35,
+  "Tenure": 5,
+  "Balance": 50000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female"
+}
+[PROFILE UPDATE OUTPUT] {
+  "CreditScore": 550,
+  "Age": 35,
+  "Tenure": 5,
+  "Balance": 50000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female"
+}
+[PROFILE UPDATE OUTPUT] {
+  "CreditScore": 550,
+  "Age": 35,
+  "Tenure": 5,
+  "Balance": 50000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female"
+}
+[PROFILE UPDATE OUTPUT] {
+  "CreditScore": 550,
+  "Age": 35,
+  "Tenure": 5,
+  "Balance": 50000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female"
+}
+[PROFILE UPDATE OUTPUT] {
+  "CreditScore": 550,
+  "Age": 35,
+  "Tenure": 5,
+  "Balance": 50000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female"
+}
+[PROFILE UPDATE OUTPUT] {
+  "CreditScore": 550,
+  "Age": 35,
+  "Tenure": 5,
+  "Balance": 50000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female"
+}
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.13
+        **Current Customer Profile:**
+        {
+  "CreditScore": 550,
+  "Age": 35,
+  "Tenure": 5,
+  "Balance": 50000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.13
+        **Current Customer Profile:**
+        {
+  "CreditScore": 550,
+  "Age": 35,
+  "Tenure": 5,
+  "Balance": 50000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.13
+        **Current Customer Profile:**
+        {
+  "CreditScore": 550,
+  "Age": 35,
+  "Tenure": 5,
+  "Balance": 50000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.13
+        **Current Customer Profile:**
+        {
+  "CreditScore": 550,
+  "Age": 35,
+  "Tenure": 5,
+  "Balance": 50000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.13
+        **Current Customer Profile:**
+        {
+  "CreditScore": 550,
+  "Age": 35,
+  "Tenure": 5,
+  "Balance": 50000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.13
+        **Current Customer Profile:**
+        {
+  "CreditScore": 550,
+  "Age": 35,
+  "Tenure": 5,
+  "Balance": 50000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.13
+        **Current Customer Profile:**
+        {
+  "CreditScore": 550,
+  "Age": 35,
+  "Tenure": 5,
+  "Balance": 50000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.13
+        **Current Customer Profile:**
+        {
+  "CreditScore": 550,
+  "Age": 35,
+  "Tenure": 5,
+  "Balance": 50000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.13
+        **Current Customer Profile:**
+        {
+  "CreditScore": 550,
+  "Age": 35,
+  "Tenure": 5,
+  "Balance": 50000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Churn Risk Score:** 0.13
+        **Current Customer Profile:**
+        {
+  "CreditScore": 550,
+  "Age": 35,
+  "Tenure": 5,
+  "Balance": 50000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female"
+}
+        
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+The customer is predicted to be at high risk of churning (leaving the bank), with a churn risk score of 0.13. This assessment is driven by several factors in their profile, primarily their low product engagement and credit score, despite being an active member.
+
+*   **Credit Score (550):** A relatively low credit score suggests the customer might feel underserved or struggle to access premium products, potentially leading them to seek better opportunities or more favorable terms from competitors.
+*   **Number of Products (1):** Holding only a single product is a significant risk factor. Customers with fewer products are less "sticky" and have less incentive to remain with the bank, making it easier for them to switch.
+*   **Balance & Salary ($50,000 / $100,000):** The customer has a moderate balance and a good estimated salary. This indicates financial capacity, meaning they could easily transfer their funds and business to another institution if dissatisfied.
+*   **Activity & Tenure (Active Member, 5 Years):** While being an active member for five years is generally positive, these factors are not strong enough to offset the other significant churn indicators. An active customer leaving suggests a deeper dissatisfaction despite engagement.
+*   **Demographics (35, Female, France):** These demographic details contribute to the overall risk assessment within the model, but their direct impact on churn is typically contextual and less actionable than financial or product-related factors.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+The customer is predicted to be at high risk of churning (leaving the bank), with a churn risk score of 0.13. This assessment is driven by several factors in their profile, primarily their low product engagement and credit score, despite being an active member.
+
+*   **Credit Score (550):** A relatively low credit score suggests the customer might feel underserved or struggle to access premium products, potentially leading them to seek better opportunities or more favorable terms from competitors.
+*   **Number of Products (1):** Holding only a single product is a significant risk factor. Customers with fewer products are less "sticky" and have less incentive to remain with the bank, making it easier for them to switch.
+*   **Balance & Salary ($50,000 / $100,000):** The customer has a moderate balance and a good estimated salary. This indicates financial capacity, meaning they could easily transfer their funds and business to another institution if dissatisfied.
+*   **Activity & Tenure (Active Member, 5 Years):** While being an active member for five years is generally positive, these factors are not strong enough to offset the other significant churn indicators. An active customer leaving suggests a deeper dissatisfaction despite engagement.
+*   **Demographics (35, Female, France):** These demographic details contribute to the overall risk assessment within the model, but their direct impact on churn is typically contextual and less actionable than financial or product-related factors.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+The customer is predicted to be at high risk of churning (leaving the bank), with a churn risk score of 0.13. This assessment is driven by several factors in their profile, primarily their low product engagement and credit score, despite being an active member.
+
+*   **Credit Score (550):** A relatively low credit score suggests the customer might feel underserved or struggle to access premium products, potentially leading them to seek better opportunities or more favorable terms from competitors.
+*   **Number of Products (1):** Holding only a single product is a significant risk factor. Customers with fewer products are less "sticky" and have less incentive to remain with the bank, making it easier for them to switch.
+*   **Balance & Salary ($50,000 / $100,000):** The customer has a moderate balance and a good estimated salary. This indicates financial capacity, meaning they could easily transfer their funds and business to another institution if dissatisfied.
+*   **Activity & Tenure (Active Member, 5 Years):** While being an active member for five years is generally positive, these factors are not strong enough to offset the other significant churn indicators. An active customer leaving suggests a deeper dissatisfaction despite engagement.
+*   **Demographics (35, Female, France):** These demographic details contribute to the overall risk assessment within the model, but their direct impact on churn is typically contextual and less actionable than financial or product-related factors.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+The customer is predicted to be at high risk of churning (leaving the bank), with a churn risk score of 0.13. This assessment is driven by several factors in their profile, primarily their low product engagement and credit score, despite being an active member.
+
+*   **Credit Score (550):** A relatively low credit score suggests the customer might feel underserved or struggle to access premium products, potentially leading them to seek better opportunities or more favorable terms from competitors.
+*   **Number of Products (1):** Holding only a single product is a significant risk factor. Customers with fewer products are less "sticky" and have less incentive to remain with the bank, making it easier for them to switch.
+*   **Balance & Salary ($50,000 / $100,000):** The customer has a moderate balance and a good estimated salary. This indicates financial capacity, meaning they could easily transfer their funds and business to another institution if dissatisfied.
+*   **Activity & Tenure (Active Member, 5 Years):** While being an active member for five years is generally positive, these factors are not strong enough to offset the other significant churn indicators. An active customer leaving suggests a deeper dissatisfaction despite engagement.
+*   **Demographics (35, Female, France):** These demographic details contribute to the overall risk assessment within the model, but their direct impact on churn is typically contextual and less actionable than financial or product-related factors.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+The customer is predicted to be at high risk of churning (leaving the bank), with a churn risk score of 0.13. This assessment is driven by several factors in their profile, primarily their low product engagement and credit score, despite being an active member.
+
+*   **Credit Score (550):** A relatively low credit score suggests the customer might feel underserved or struggle to access premium products, potentially leading them to seek better opportunities or more favorable terms from competitors.
+*   **Number of Products (1):** Holding only a single product is a significant risk factor. Customers with fewer products are less "sticky" and have less incentive to remain with the bank, making it easier for them to switch.
+*   **Balance & Salary ($50,000 / $100,000):** The customer has a moderate balance and a good estimated salary. This indicates financial capacity, meaning they could easily transfer their funds and business to another institution if dissatisfied.
+*   **Activity & Tenure (Active Member, 5 Years):** While being an active member for five years is generally positive, these factors are not strong enough to offset the other significant churn indicators. An active customer leaving suggests a deeper dissatisfaction despite engagement.
+*   **Demographics (35, Female, France):** These demographic details contribute to the overall risk assessment within the model, but their direct impact on churn is typically contextual and less actionable than financial or product-related factors.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+The customer is predicted to be at high risk of churning (leaving the bank), with a churn risk score of 0.13. This assessment is driven by several factors in their profile, primarily their low product engagement and credit score, despite being an active member.
+
+*   **Credit Score (550):** A relatively low credit score suggests the customer might feel underserved or struggle to access premium products, potentially leading them to seek better opportunities or more favorable terms from competitors.
+*   **Number of Products (1):** Holding only a single product is a significant risk factor. Customers with fewer products are less "sticky" and have less incentive to remain with the bank, making it easier for them to switch.
+*   **Balance & Salary ($50,000 / $100,000):** The customer has a moderate balance and a good estimated salary. This indicates financial capacity, meaning they could easily transfer their funds and business to another institution if dissatisfied.
+*   **Activity & Tenure (Active Member, 5 Years):** While being an active member for five years is generally positive, these factors are not strong enough to offset the other significant churn indicators. An active customer leaving suggests a deeper dissatisfaction despite engagement.
+*   **Demographics (35, Female, France):** These demographic details contribute to the overall risk assessment within the model, but their direct impact on churn is typically contextual and less actionable than financial or product-related factors.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+The customer is predicted to be at high risk of churning (leaving the bank), with a churn risk score of 0.13. This assessment is driven by several factors in their profile, primarily their low product engagement and credit score, despite being an active member.
+
+*   **Credit Score (550):** A relatively low credit score suggests the customer might feel underserved or struggle to access premium products, potentially leading them to seek better opportunities or more favorable terms from competitors.
+*   **Number of Products (1):** Holding only a single product is a significant risk factor. Customers with fewer products are less "sticky" and have less incentive to remain with the bank, making it easier for them to switch.
+*   **Balance & Salary ($50,000 / $100,000):** The customer has a moderate balance and a good estimated salary. This indicates financial capacity, meaning they could easily transfer their funds and business to another institution if dissatisfied.
+*   **Activity & Tenure (Active Member, 5 Years):** While being an active member for five years is generally positive, these factors are not strong enough to offset the other significant churn indicators. An active customer leaving suggests a deeper dissatisfaction despite engagement.
+*   **Demographics (35, Female, France):** These demographic details contribute to the overall risk assessment within the model, but their direct impact on churn is typically contextual and less actionable than financial or product-related factors.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+The customer is predicted to be at high risk of churning (leaving the bank), with a churn risk score of 0.13. This assessment is driven by several factors in their profile, primarily their low product engagement and credit score, despite being an active member.
+
+*   **Credit Score (550):** A relatively low credit score suggests the customer might feel underserved or struggle to access premium products, potentially leading them to seek better opportunities or more favorable terms from competitors.
+*   **Number of Products (1):** Holding only a single product is a significant risk factor. Customers with fewer products are less "sticky" and have less incentive to remain with the bank, making it easier for them to switch.
+*   **Balance & Salary ($50,000 / $100,000):** The customer has a moderate balance and a good estimated salary. This indicates financial capacity, meaning they could easily transfer their funds and business to another institution if dissatisfied.
+*   **Activity & Tenure (Active Member, 5 Years):** While being an active member for five years is generally positive, these factors are not strong enough to offset the other significant churn indicators. An active customer leaving suggests a deeper dissatisfaction despite engagement.
+*   **Demographics (35, Female, France):** These demographic details contribute to the overall risk assessment within the model, but their direct impact on churn is typically contextual and less actionable than financial or product-related factors.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+The customer is predicted to be at high risk of churning (leaving the bank), with a churn risk score of 0.13. This assessment is driven by several factors in their profile, primarily their low product engagement and credit score, despite being an active member.
+
+*   **Credit Score (550):** A relatively low credit score suggests the customer might feel underserved or struggle to access premium products, potentially leading them to seek better opportunities or more favorable terms from competitors.
+*   **Number of Products (1):** Holding only a single product is a significant risk factor. Customers with fewer products are less "sticky" and have less incentive to remain with the bank, making it easier for them to switch.
+*   **Balance & Salary ($50,000 / $100,000):** The customer has a moderate balance and a good estimated salary. This indicates financial capacity, meaning they could easily transfer their funds and business to another institution if dissatisfied.
+*   **Activity & Tenure (Active Member, 5 Years):** While being an active member for five years is generally positive, these factors are not strong enough to offset the other significant churn indicators. An active customer leaving suggests a deeper dissatisfaction despite engagement.
+*   **Demographics (35, Female, France):** These demographic details contribute to the overall risk assessment within the model, but their direct impact on churn is typically contextual and less actionable than financial or product-related factors.
+[CONVERSATION OUTPUT] **High Churn Risk**
+
+The customer is predicted to be at high risk of churning (leaving the bank), with a churn risk score of 0.13. This assessment is driven by several factors in their profile, primarily their low product engagement and credit score, despite being an active member.
+
+*   **Credit Score (550):** A relatively low credit score suggests the customer might feel underserved or struggle to access premium products, potentially leading them to seek better opportunities or more favorable terms from competitors.
+*   **Number of Products (1):** Holding only a single product is a significant risk factor. Customers with fewer products are less "sticky" and have less incentive to remain with the bank, making it easier for them to switch.
+*   **Balance & Salary ($50,000 / $100,000):** The customer has a moderate balance and a good estimated salary. This indicates financial capacity, meaning they could easily transfer their funds and business to another institution if dissatisfied.
+*   **Activity & Tenure (Active Member, 5 Years):** While being an active member for five years is generally positive, these factors are not strong enough to offset the other significant churn indicators. An active customer leaving suggests a deeper dissatisfaction despite engagement.
+*   **Demographics (35, Female, France):** These demographic details contribute to the overall risk assessment within the model, but their direct impact on churn is typically contextual and less actionable than financial or product-related factors.
+[EXTRACTION] Could not parse JSON. Raw response: I can only extract data from provided text. Please provide the text containing the customer details you wish to extract.
+[EXTRACTION] Could not parse JSON. Raw response: I can only extract data from provided text. Please provide the text containing the customer details you wish to extract.
+[EXTRACTION] Could not parse JSON. Raw response: I can only extract data from provided text. Please provide the text containing the customer details you wish to extract.
+[EXTRACTION] Could not parse JSON. Raw response: I can only extract data from provided text. Please provide the text containing the customer details you wish to extract.
+[EXTRACTION] Could not parse JSON. Raw response: I can only extract data from provided text. Please provide the text containing the customer details you wish to extract.
+[EXTRACTION] Could not parse JSON. Raw response: I can only extract data from provided text. Please provide the text containing the customer details you wish to extract.
+[EXTRACTION] Could not parse JSON. Raw response: I can only extract data from provided text. Please provide the text containing the customer details you wish to extract.
+[EXTRACTION] Could not parse JSON. Raw response: I can only extract data from provided text. Please provide the text containing the customer details you wish to extract.
+[EXTRACTION] Could not parse JSON. Raw response: I can only extract data from provided text. Please provide the text containing the customer details you wish to extract.
+[EXTRACTION] Could not parse JSON. Raw response: I can only extract data from provided text. Please provide the text containing the customer details you wish to extract.
+[EXTRACTION] Could not parse JSON. Raw response: I can only extract data from provided text. Please provide the text containing the customer details you wish to extract.
+[EXTRACTION] Could not parse JSON. Raw response: If the customer was a female from Spain, the extracted data would include:
+
+'Geography': 'Spain', 'Gender': 'Female'
+[EXTRACTION] Could not parse JSON. Raw response: If the customer was a female from Spain, the extracted data would include:
+
+'Geography': 'Spain', 'Gender': 'Female'
+[EXTRACTION] Could not parse JSON. Raw response: If the customer was a female from Spain, the extracted data would include:
+
+'Geography': 'Spain', 'Gender': 'Female'
+[EXTRACTION] Could not parse JSON. Raw response: If the customer was a female from Spain, the extracted data would include:
+
+'Geography': 'Spain', 'Gender': 'Female'
+[EXTRACTION] Could not parse JSON. Raw response: If the customer was a female from Spain, the extracted data would include:
+
+'Geography': 'Spain', 'Gender': 'Female'
+[EXTRACTION] Could not parse JSON. Raw response: If the customer was a female from Spain, the extracted data would include:
+
+'Geography': 'Spain', 'Gender': 'Female'
+[EXTRACTION] Could not parse JSON. Raw response: If the customer was a female from Spain, the extracted data would include:
+
+'Geography': 'Spain', 'Gender': 'Female'
+[EXTRACTION] Could not parse JSON. Raw response: If the customer was a female from Spain, the extracted data would include:
+
+'Geography': 'Spain', 'Gender': 'Female'
+[EXTRACTION] Could not parse JSON. Raw response: If the customer was a female from Spain, the extracted data would include:
+
+'Geography': 'Spain', 'Gender': 'Female'
+[EXTRACTION] Could not parse JSON. Raw response: If the customer was a female from Spain, the extracted data would include:
+
+'Geography': 'Spain', 'Gender': 'Female'
+[EXTRACTION] Could not parse JSON. Raw response: If the customer was a female from Spain, the extracted data would include:
+
+'Geography': 'Spain', 'Gender': 'Female'
+[EXTRACTION] Could not parse JSON. Raw response: If the customer was a female from Spain, the extracted data would include:
+
+'Geography': 'Spain', 'Gender': 'Female'
+[EXTRACTION INPUT] A female in her 30's with a poor credit score and balance
+[EXTRACTION INPUT] A female in her 30's with a poor credit score and balance
+[EXTRACTION INPUT] A female in her 30's with a poor credit score and balance
+[EXTRACTION OUTPUT] {'CreditScore': 550, 'Age': 35, 'Tenure': None, 'Balance': 1000.0, 'NumOfProducts': None, 'HasCrCard': None, 'IsActiveMember': None, 'EstimatedSalary': None, 'Geography': None, 'Gender': 'Female'}
+[EXTRACTION OUTPUT] {'CreditScore': 550, 'Age': 35, 'Tenure': None, 'Balance': 1000.0, 'NumOfProducts': None, 'HasCrCard': None, 'IsActiveMember': None, 'EstimatedSalary': None, 'Geography': None, 'Gender': 'Female'}
+[EXTRACTION OUTPUT] {'CreditScore': 550, 'Age': 35, 'Tenure': None, 'Balance': 1000.0, 'NumOfProducts': None, 'HasCrCard': None, 'IsActiveMember': None, 'EstimatedSalary': None, 'Geography': None, 'Gender': 'Female'}
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Final Customer Profile Used:**
+        {
+  "CreditScore": 550,
+  "Age": 35,
+  "Tenure": 5,
+  "Balance": 1000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Final Customer Profile Used:**
+        {
+  "CreditScore": 550,
+  "Age": 35,
+  "Tenure": 5,
+  "Balance": 1000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female"
+}
+        
+[CONVERSATION INPUT] 
+        **Prediction Result:** The customer is at high risk of **CHURNING** (leaving the bank).
+        **Final Customer Profile Used:**
+        {
+  "CreditScore": 550,
+  "Age": 35,
+  "Tenure": 5,
+  "Balance": 1000.0,
+  "NumOfProducts": 1,
+  "HasCrCard": 1,
+  "IsActiveMember": 1,
+  "EstimatedSalary": 100000.0,
+  "Geography": "France",
+  "Gender": "Female"
+}
+        
+[CONVERSATION OUTPUT] **Churn Prediction: Likely to Churn**
+
+**Customer Profile Summary:**
+
+*   **Credit Score:** 550 (Considered low)
+*   **Age:** 35 years old (Mid-range)
+*   **Tenure:** 5 years with the bank (Mid-range)
+*   **Balance:** $1,000 (Very low)
+*   **Number of Products:** 1 (Holds only one product)
+*   **Has Credit Card:** Yes
+*   **Is Active Member:** Yes
+*   **Estimated Salary:** $100,000 (High)
+*   **Geography:** France
+*   **Gender:** Female
+
+**Main Factors Influencing the Prediction:**
+
+*   Low Credit Score (550)
+*   Very Low Account Balance ($1,000)
+*   Holds only a single product with the bank
+[CONVERSATION OUTPUT] **Churn Prediction: Likely to Churn**
+
+**Customer Profile Summary:**
+
+*   **Credit Score:** 550 (Considered low)
+*   **Age:** 35 years old (Mid-range)
+*   **Tenure:** 5 years with the bank (Mid-range)
+*   **Balance:** $1,000 (Very low)
+*   **Number of Products:** 1 (Holds only one product)
+*   **Has Credit Card:** Yes
+*   **Is Active Member:** Yes
+*   **Estimated Salary:** $100,000 (High)
+*   **Geography:** France
+*   **Gender:** Female
+
+**Main Factors Influencing the Prediction:**
+
+*   Low Credit Score (550)
+*   Very Low Account Balance ($1,000)
+*   Holds only a single product with the bank
+[CONVERSATION OUTPUT] **Churn Prediction: Likely to Churn**
+
+**Customer Profile Summary:**
+
+*   **Credit Score:** 550 (Considered low)
+*   **Age:** 35 years old (Mid-range)
+*   **Tenure:** 5 years with the bank (Mid-range)
+*   **Balance:** $1,000 (Very low)
+*   **Number of Products:** 1 (Holds only one product)
+*   **Has Credit Card:** Yes
+*   **Is Active Member:** Yes
+*   **Estimated Salary:** $100,000 (High)
+*   **Geography:** France
+*   **Gender:** Female
+
+**Main Factors Influencing the Prediction:**
+
+*   Low Credit Score (550)
+*   Very Low Account Balance ($1,000)
+*   Holds only a single product with the bank

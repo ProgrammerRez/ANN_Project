@@ -92,14 +92,39 @@ def run_chatbot(api_key, user_message):
 
     extraction_prompt = ChatPromptTemplate.from_messages([
         ("system", """
-        You are an expert data extraction assistant. Extract customer details into JSON.Capitalize first character of each key.Good is an estimate for high magnitude, not a value, translate it to something numerical. 
+        You are an expert banking data extraction assistant. 
+        When given a customer description in natural language, extract the following details and return them as a JSON object with these rules:
+
+        - CreditScore: integer, typical range 300–850  
+        - Age: integer, in years  
+        - Tenure: integer, number of years with the bank  
+        - Balance: float, account balance in the local currency  
+        - NumOfProducts: integer, number of bank products owned  
+        - HasCrCard: 0 or 1 (integer) indicating credit card ownership  
+        - IsActiveMember: 0 or 1 (integer) indicating active membership  
+        - Geography: string, name of the country  
+        - Gender: string, "Male" or "Female"  
+        - Exited: 0 or 1 (integer), whether the customer has exited
+
+        Return only the JSON object. Do not include explanations, text, or formatting outside of the JSON. Translate vague terms like "poor", "good", or "early 30s" into numeric values.
+
         """),
         ("human", "{input}")
     ])
     extractor_chain = extraction_prompt | llm
 
     conversational_prompt = ChatPromptTemplate.from_messages([
-        ("system", "You are an expert banking AI assistant and analyst. Just keep it simple and give a bold heading of what is the salary? In a concise manner give me summarized text for each point of assessment. Be ready for follow up questions"),
+        ("system", """
+        You are an expert banking AI assistant and analyst. 
+        Provide a concise and easy-to-read summary of the prediction. 
+
+        - Begin with a bold heading showing the predicted value, e.g., **Salary Predicted: $100,000**.  
+        - Then, give a brief summary for each assessment point (CreditScore, Age, Tenure, Balance, etc.).  
+        - Finally, list the key factors that influenced this prediction.  
+        Keep the language simple, professional, and focused on actionable insights.  
+        Do not include unnecessary explanations or unrelated text.
+        """),
+
         MessagesPlaceholder(variable_name="history"),
         ("human", "{input}"),
     ])
