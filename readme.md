@@ -9,7 +9,7 @@ Both applications use Artificial Neural Networks (ANN) combined with Google's Ge
 
 ## Live Demos
 - [Salary Prediction Chatbot](https://ann-project-chatbot-by-muhammad-umar-2318.streamlit.app)
-- [Salary Prediction App](https://ann-project-by-muhammad-umar-streamlit.app)
+- [Salary Prediction App](https://ann-project-by-muhammad-umar.streamlit.app)
 
 ## Project Structure
 ```
