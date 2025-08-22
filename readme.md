@@ -8,7 +8,7 @@ This project implements two machine learning applications for banking analytics:
 Both applications use Artificial Neural Networks (ANN) combined with Google's Gemini LLM for natural language interaction.
 
 ## Live Demos
-- [Salary Prediction Chatbot](https://ann-project-chatbot-by-muhammad-umar.streamlit.app)
+- [Salary Prediction Chatbot](https://ann-project-chatbot-by-muhammad-umar-2318.streamlit.app)
 - [Salary Prediction App](https://ann-project-by-muhammad-umar-streamlit.app)
 
 ## Project Structure

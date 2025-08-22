@@ -214,7 +214,7 @@ st.set_page_config(page_title='Salary Prediction Chatbot',
                 initial_sidebar_state='expanded',
                 layout='wide')
 
-st.title('💬 Churn Prediction Chatbot')
+st.title('💬 Salary Prediction Chatbot')
 
 with st.sidebar:
     st.markdown('## Configuration')
