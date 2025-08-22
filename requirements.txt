@@ -1,24 +1,13 @@
-# Core ML and data
-tensorflow>=2.20.0
-scikit-learn>=1.7.1
-pandas>=2.3.2
-numpy>=2.3.2
-
-# Web/Streamlit UI
-streamlit>=1.48.1
-
-# Visualization
-matplotlib>=3.8.0
-seaborn>=0.13.2
-
-# Logging and utilities
-joblib>=1.3.2
-pydantic>=2.5.1
-rich>=14.1.0
-
-# Google Gemini API
-langchain>=1.2.0
-langchain-google-genai
-
-# Optional for Jupyter (check compatibility manually)
-# ipykernel (skip installing in Py 3.13 for now)
+tensorflow
+scikit-learn
+pandas
+numpy
+streamlit
+tensorboard
+matplotlib
+seaborn
+joblib
+pydantic
+rich
+langchain
+langchain_google_genai
