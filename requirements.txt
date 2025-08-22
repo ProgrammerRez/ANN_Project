@@ -19,6 +19,7 @@ rich>=14.1.0
 # Google Gemini API
 google-generativeai>=0.1.4
 langchain>=1.2.0
+langchain-google-genai
 
 # Optional for Jupyter (check compatibility manually)
 # ipykernel (skip installing in Py 3.13 for now)
