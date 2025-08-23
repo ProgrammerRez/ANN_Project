@@ -219,6 +219,7 @@ st.title('💬 Salary Prediction Chatbot')
 with st.sidebar:
     st.markdown('## Configuration')
     st.info("This chatbot uses Google's Gemini LLM with churn prediction model")
+    st.info("This is the link from where you can get the API key: https://aistudio.google.com")
     api_key = st.text_input(label='API Key', type='password')
 
 # Initialize session state for chat history
